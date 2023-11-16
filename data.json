@@ -136,6 +136,20 @@
           69.65092
         ]
       }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "name": "BaseCamp Tromsø (ski- og sykkelreparatør)",
+        "category": "sports",
+        "city": "9007 Tromsø",
+        "address": "Mellomvegen 16",
+        "website": "https://www.facebook.com/basecamptromso/"
+      },
+      "geometry": {
+        "coordinates": "[18.9486, 69.64704]",
+        "type": "Point"
+      }
     }
   ]
 }
