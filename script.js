@@ -46,19 +46,19 @@ L.MarkerClusterGroup.include({
 });
 
 function init() {
-    map = L.map('map').setView([59.92, 10.75], 13);
+    map = L.map('map').setView([69.65, 18.94], 13); 
     L.tileLayer(
 	'https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.png',
 	{
 	    attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, ' +
 		'&copy; <a href="https://openmaptiles.org/">OpenMapTiles</a>, ' +
 		'&copy; <a href="http://openstreetmap.org">OpenStreetMap</a>, ' +
-		'made by <a href="mailto:pierrebeauguitte@pm.me">Pierre Beauguitte</a>',
+		'made by <a href="mailto:pierrebeauguitte@pm.me">Pierre Beauguitte</a>, edited by FIVH Tromsø',
 	    maxZoom: 20,
 	    minZoom: 11,
 	}).addTo(map);
-    map.setMaxBounds(L.latLngBounds(L.latLng(60.0716, 10.2434),
-				    L.latLng(59.7114, 11.3000)));
+    map.setMaxBounds(L.latLngBounds(L.latLng(69.8000, 18.5000),
+				    L.latLng(69.6000, 19.2000)));
     loadPlaces();
 }
 
