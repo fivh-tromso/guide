@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miljøloftet (kontor Framtiden i Våre Hender Nord)",
+        "category": "tools",
+        "website": "https://www.framtidennord.no/",
+        "address": "Storgata 88",
+        "city": "9008 Tromsø"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.956983,
+          69.650837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Det Grønne Rom (Fiksekveld og utstillinger)",
+        "category": "tools",
+        "address": "Samuel Arnesens gate 5",
+        "city": "9008 Tromsø",
+        "website": "https://www.framtidennord.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.960290,
+          69.647336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pust.kafé",
+        "category": "food",
+        "website": "https://www.kafe.pust.io/",
+        "address": "Skippergata 1C",
+        "city": "9008 Tromsø"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.96051,
+          59.91172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bike Kitchen",
+        "category": "bike",
+        "website": "https://www.facebook.com/profile.php?id=100068874124114",
+        "address": "Strandvegen 50",
+        "city": "9007 Tromsø"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.94056,
+          69.64099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tromsø Skomakerverksted",
+        "category": "tools",
+        "website": "http://tromsoskomakerverksted.no/",
+        "address": "Strandgata 34",
+        "city": "9008 Tromsø"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.95600,
+          69.64804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Steget Videre Skomakeri",
+        "category": "tools",
+        "website": "https://stegetvidere.no/",
+        "address": "Storgata 81",
+        "city": "9008 Tromsø"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.95832,
+          69.65071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clas Ohlson verktøyutlån Jekta",
+        "category": "tools",
+        "website": "https://www.uteleiehosclas.no/",
+        "address": "Stovner Senter 3",
+        "city": "9015 Tromsø"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.92072,
+          69.67437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TURBO utlån av sportsutstyr",
+        "category": "sports",
+        "website": "https://www.facebook.com/TromsoTurutstyr",
+        "address": "Grønnegata 94",
+        "city": "9008 Tromsø"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.95549,
+          69.65092
+        ]
+      }
+    }
+  ]
+}
