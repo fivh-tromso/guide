@@ -147,7 +147,7 @@
         "website": "https://www.facebook.com/basecamptromso/"
       },
       "geometry": {
-        "coordinates": "[18.9486, 69.64704]",
+        "coordinates": [18.9486, 69.64704],
         "type": "Point"
       }
     }
