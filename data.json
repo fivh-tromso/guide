@@ -150,6 +150,141 @@
         "coordinates": [18.9486, 69.64704],
         "type": "Point"
       }
+    },
+	
+	  {
+      "type": "Feature",
+      "properties": {
+        "name": "UFF Second Hand Tromsø",
+        "category": "clothes",
+        "website": "http://uffnorge.org/",
+        "address": "Storgata 41",
+        "city": "9008 Tromsø"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.95335,
+          69.64714
+        ]
+      }
+    },
+	
+	
+	  {
+      "type": "Feature",
+      "properties": {
+        "name": "Gjenbruken Tromsø (NLM Second Hand)",
+        "category": "clothes",
+        "website": "https://gjenbruken.no/tromso/",
+        "address": "Strandgata 5",
+        "city": "9008 Tromsø"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.95318,
+          69.64613 
+        ]
+      }
+    },
+	
+	
+	  {
+      "type": "Feature",
+      "properties": {
+        "name": "Remiks Bruktbutikk / Bli Rebell",
+        "category": "clothes",
+        "website": "https://www.blirebell.no/",
+        "address": "Kvaløyvegen 329",
+        "city": "9016 Tromsø"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.92001,
+          69.66931
+        ]
+      }
+    },
+	
+	
+	  {
+      "type": "Feature",
+      "properties": {
+        "name": "Tromsø Bruktbokhandel",
+        "category": "clothes",
+        "website": "https://www.facebook.com/Troms%C3%B8-Bruktbokhandel-478411402273244/",
+        "address": "Kirkegata 6 (til venstre bak City to Summit)",
+        "city": "9008 Tromsø"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.95644,
+          69.64827 
+        ]
+      }
+    },
+	
+	
+	  {
+      "type": "Feature",
+      "properties": {
+        "name": "OmMøblert",
+        "category": "clothes",
+        "website": "http://www.ommoblert.no/",
+        "address": "Skippergata 35-39, Inngang fra, Otto Sverdrups gate",
+        "city": "9008 Tromsø"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.96485,
+          69.65589
+        ]
+      }
+    },
+	
+	
+	  {
+      "type": "Feature",
+      "properties": {
+        "name": "Edel Antikk og Vintage",
+        "category": "clothes",
+        "website": " ",
+        "address": "Storgata 62",
+        "city": "9008 Tromsø"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.95500,
+          69.64905 
+        ]
+      }
+    },
+	
+	
+	  {
+      "type": "Feature",
+      "properties": {
+        "name": "Postludium - bruktbutikk, gjør diverse syjobber som reparasjon, opplegging osv. Overskudd går til bymisjonen",
+        "category": "clothes",
+        "website": "https://kirkensbymisjon.no/gjenbruksbutikken-postludium/",
+        "address": "Skippergata 4 A",
+        "city": "9008 Tromsø"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.96034,
+          69.65279
+        ]
+      }
     }
+	
+	
+	
   ]
 }
