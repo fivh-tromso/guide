@@ -55,17 +55,17 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "More vegetarian/sustainable food options to be announced",
+        "name": "More vegetarian/sustainable food options to come",
         "category": "food",
         "website": "Stay tuned",
         "address": "Tromsø",
-        "city": ""
+        "city": "Tromsø"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19,
-          70
+          18.94782,
+          69.67012
         ]
       }
     },
@@ -154,7 +154,7 @@
         ]
       }
     },
-        {
+    {
       "type": "Feature",
       "properties": {
         "name": "BaseCamp Tromsø (ski- og sykkelreparatør)",
@@ -164,12 +164,14 @@
         "website": "https://www.facebook.com/basecamptromso/"
       },
       "geometry": {
-        "coordinates": [18.9486, 69.64704],
+        "coordinates": [
+          18.9486,
+          69.64704
+        ],
         "type": "Point"
       }
     },
-	
-	  {
+    {
       "type": "Feature",
       "properties": {
         "name": "UFF Second Hand Tromsø",
@@ -186,9 +188,7 @@
         ]
       }
     },
-	
-	
-	  {
+    {
       "type": "Feature",
       "properties": {
         "name": "Gjenbruken Tromsø (NLM Second Hand)",
@@ -201,13 +201,11 @@
         "type": "Point",
         "coordinates": [
           18.95318,
-          69.64613 
+          69.64613
         ]
       }
     },
-	
-	
-	  {
+    {
       "type": "Feature",
       "properties": {
         "name": "Remiks Bruktbutikk / Bli Rebell",
@@ -224,9 +222,7 @@
         ]
       }
     },
-	
-	
-	  {
+    {
       "type": "Feature",
       "properties": {
         "name": "Tromsø Bruktbokhandel",
@@ -239,13 +235,11 @@
         "type": "Point",
         "coordinates": [
           18.95644,
-          69.64827 
+          69.64827
         ]
       }
     },
-	
-	
-	  {
+    {
       "type": "Feature",
       "properties": {
         "name": "OmMøblert",
@@ -262,9 +256,7 @@
         ]
       }
     },
-	
-	
-	  {
+    {
       "type": "Feature",
       "properties": {
         "name": "Edel Antikk og Vintage",
@@ -277,16 +269,14 @@
         "type": "Point",
         "coordinates": [
           18.95500,
-          69.64905 
+          69.64905
         ]
       }
     },
-	
-	
-	  {
+    {
       "type": "Feature",
       "properties": {
-        "name": "Postludium - bruktbutikk, gjør diverse syjobber som reparasjon, opplegging osv. Overskudd går til bymisjonen",
+        "name": "Postludium - bruktbutikk, gjør diverse syjobber som reparasjon, opplegging osv. Overskudd til bymisjonen",
         "category": "clothes",
         "website": "https://kirkensbymisjon.no/gjenbruksbutikken-postludium/",
         "address": "Skippergata 4 A",
@@ -300,9 +290,7 @@
         ]
       }
     },
-
-
-	  {
+    {
       "type": "Feature",
       "properties": {
         "name": "Tromsø Ski og Sykkel (service or reparasjon)",
@@ -319,9 +307,7 @@
         ]
       }
     },
-	
-	
-	  {
+    {
       "type": "Feature",
       "properties": {
         "name": "Øivind Holmboe Guitarworks",
@@ -338,9 +324,7 @@
         ]
       }
     },
-	
-	
-	  {
+    {
       "type": "Feature",
       "properties": {
         "name": "Elesco (hvitevarereparatør)",
@@ -357,9 +341,7 @@
         ]
       }
     },
-	
-	
-	  {
+    {
       "type": "Feature",
       "properties": {
         "name": "Mobit Stakkevollvegen - Tromsø (mobil/data reparasjon)",
@@ -372,13 +354,11 @@
         "type": "Point",
         "coordinates": [
           18.96897,
-          69.66717 
+          69.66717
         ]
       }
     },
-	
-	
-	  {
+    {
       "type": "Feature",
       "properties": {
         "name": "REKO-Ringen (direktehandel fra bonden, pop-up sjekk Facebook)",
@@ -395,9 +375,7 @@
         ]
       }
     },
-	
-	
-	  {
+    {
       "type": "Feature",
       "properties": {
         "name": "Svermeri Kafé og Redesign",
@@ -410,13 +388,11 @@
         "type": "Point",
         "coordinates": [
           18.95986,
-          69.65281 
+          69.65281
         ]
       }
     },
-	
-	
-	  {
+    {
       "type": "Feature",
       "properties": {
         "name": "Perfekt Renseri AS",
@@ -428,14 +404,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-         18.95748,
-         69.65264 
+          18.95748,
+          69.65264
         ]
       }
     },
-	
-	
-	  {
+    {
       "type": "Feature",
       "properties": {
         "name": "https://www.facebook.com/BondensmarkedArktis",
@@ -447,14 +421,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-         18.95914,
-         69.65135
+          18.95914,
+          69.65135
         ]
       }
     },
-	
-	
-	  {
+    {
       "type": "Feature",
       "properties": {
         "name": "Tromsø Outdoor (utleie)",
@@ -466,33 +438,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-         18.95797,
-         69.64926
+          18.95797,
+          69.64926
         ]
       }
     },
-	
-	
-	  {
-      "type": "Feature",
-      "properties": {
-        "name": "Tromsø Outdoor (utleie)",
-        "category": "clothes",
-        "website": "http://www.tromsooutdoor.no/",
-        "address": "Fredrik Langes gate 14",
-        "city": "9008 Tromsø"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-         18.95797,
-         69.64926
-        ]
-      }
-    },
-	
-	
-	  {
+    {
       "type": "Feature",
       "properties": {
         "name": "Bardus Bistro (kortreist mat)",
@@ -504,69 +455,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-	 18.95558,
-         69.65055
+          18.95558,
+          69.65055
         ]
       }
     },
-	
-	
-	  {
+    {
       "type": "Feature",
       "properties": {
         "name": "Gullsmed Kristiansen AS",
         "category": "clothes",
-        "website": "",
+        "website": " ",
         "address": "Kirkegata 14",
         "city": "9008 Tromsø"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-         18.95536,
-         69.64851 
+          18.95536,
+          69.64851
         ]
       }
     },
-	
-	
-	  {
+    {
       "type": "Feature",
       "properties": {
         "name": "Tromsø Frimerke & Mynt",
         "category": "clothes",
-        "website": "",
+        "website": " ",
         "address": "Storgata 81B",
         "city": "9008 Tromsø"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-         18.95769,
-         69.65078 
-        ]
-      }
-    },
-	
-	
-	  {
-      "type": "Feature",
-      "properties": {
-        "name": "Gullsmed Kristiansen AS",
-        "category": "clothes",
-        "website": "",
-        "address": "Kirkegata 14",
-        "city": "9008 Tromsø"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-         18.95536,
-         69.64851 
+          18.95769,
+          69.65078
         ]
       }
     }
-	
-	
   ]
 }
