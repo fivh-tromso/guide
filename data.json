@@ -294,7 +294,7 @@
       "type": "Feature",
       "properties": {
         "name": "Tromsø Ski og Sykkel (service or reparasjon)",
-        "category": "sport",
+        "category": "sports",
         "website": "https://www.tromsoskiogsykkel.no/",
         "address": "Ærfuglvegen 3B",
         "city": "9015 Tromsø"
@@ -465,7 +465,7 @@
       "properties": {
         "name": "Gullsmed Kristiansen AS",
         "category": "clothes",
-        "website": " ",
+        "website": " ",
         "address": "Kirkegata 14",
         "city": "9008 Tromsø"
       },
@@ -482,7 +482,7 @@
       "properties": {
         "name": "Tromsø Frimerke & Mynt",
         "category": "clothes",
-        "website": " ",
+        "website": " ",
         "address": "Storgata 81B",
         "city": "9008 Tromsø"
       },
