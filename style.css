@@ -21,7 +21,10 @@ body {
     --sports: #c27ba0;
     --sports-light: #d5a6bd;
     --sports-st: #d5a6bd99;
-
+    --events: #6d9eeb;
+    --events-light: #a4c2f4;
+    --events-st: #a4c2f499;
+	
     --fivh: #F7941D;
     --fivh-light: #FFBA43;
     --fivh-lighter: #FFD15A;
@@ -180,6 +183,8 @@ table tr.tools td           { background-color: var(--tools-light);   }
 table tr.tools:hover td     { background-color: var(--tools);         }
 table tr.sports td          { background-color: var(--sports-light);  }
 table tr.sports:hover td    { background-color: var(--sports);        }
+table tr.events td           { background-color: var(--events-light);   }
+table tr.events:hover td     { background-color: var(--events);         }
 
 .marker-cluster-food        { background-color: var(--food-st);    }
 .marker-cluster-food div    { background-color: var(--food);       }
@@ -191,6 +196,8 @@ table tr.sports:hover td    { background-color: var(--sports);        }
 .marker-cluster-tools div   { background-color: var(--tools);      }
 .marker-cluster-sports      { background-color: var(--sports-st);  }
 .marker-cluster-sports div  { background-color: var(--sports);     }
+.marker-cluster-events      { background-color: var(--events-st);  }
+.marker-cluster-events div  { background-color: var(--events);     }
 
 .marker-cluster {
     background-clip: padding-box;
