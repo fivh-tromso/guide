@@ -2,15 +2,22 @@
 ## Kart over sirkulære aktører i Tromsø og omegn
 
 Guiden: 
+
 https://fivh-tromso.github.io/guide/
 
 Dette prosjektet sikter på å gi folk en oversikt bruktbutikker, reparasjoner, leie, mat, og akviviteter som fremmer bærekraft.* Da mener vi ikke en slik bærekraft som alle reklamene vifter med, nei.
 
+
 Guiden har kategoriene:
+
 🛠️ Verktøyutleie- og utlån
+
 🍴 Mat	
+
 🚲 Sykkel
+
 ⛷️ Utlån av sportsutstyr	
+
 👕 Klær (gjenbruk)
 
 
