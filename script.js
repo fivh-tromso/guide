@@ -144,9 +144,11 @@ var translations = {
     'sports': {
 	'text': 'Utlån av sportsutstyr',
 	'icon': 'downhill_skiing'
+    },
+    'events': {
+	'text': 'Arrangementer',
+	'icon': 'local_activity'
     }
-
-
 }
 
 function createTable() {
