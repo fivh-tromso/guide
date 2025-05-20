@@ -494,6 +494,19 @@
         ]
       }
     },
-    {   "type": "Feature",   "properties": {     "name": "7. juni: Utendørs bruktmarked, i regi FIVH Nord",     "category": "events",     "website": "https://fb.me/e/34XsP5m2x",     "address": "Rødbanken, Storgata 66, 9008 Tromsø, Norway",     "city": "9008 Tromsø"   },   "geometry": {     "type": "Point",     "coordinates": [69.6491423, 18.9556428]   } }
+    {
+      "type": "Feature", 
+      "properties": {
+        "name": "7. juni: Utendørs bruktmarked, i regi FIVH Nord", 
+        "category": "events", 
+        "website": "https://fb.me/e/34XsP5m2x", 
+        "address": "Rødbanken, Storgata 66, 9008 Tromsø, Norway", 
+        "city": "9008 Tromsø" 
+      },   
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [69.6491423, 18.9556428] 
+      }
+    }
   ]
 }
