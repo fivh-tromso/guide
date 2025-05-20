@@ -147,7 +147,7 @@ var translations = {
     },
     'events': {
 	'text': 'Arrangementer',
-	'icon': 'local_activity'
+	'icon': 'downhill_skiing'
     }
 }
 
