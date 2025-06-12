@@ -185,7 +185,7 @@ function makeIcon(cat) {
     });
 }
 
-function loadPlaces() {
+function loadPlaces2() {
     $.getJSON("data.json",function(data) {
 	L.geoJson(data, {
 	    pointToLayer: function(feature,latlng) {
@@ -209,6 +209,56 @@ function loadPlaces() {
 	createTable();
 	draw();
     });
+}
+
+function loadPlaces() {
+    fetch('data.csv')
+        .then(response => response.text())
+        .then(csvText => {
+            const parsed = Papa.parse(csvText, {
+                header: true,
+                skipEmptyLines: true
+            });
+
+            // Clear previous places
+            places = {};
+
+            parsed.data.forEach(row => {
+                // Parse geometry: "longitude,latitude"
+                let lon = null, lat = null;
+                if (row.geometry && row.geometry.includes(',')) {
+                    const coords = row.geometry.split(',').map(Number);
+                    lon = coords[0];
+                    lat = coords[1];
+                }
+                if (lat === null || lon === null || isNaN(lat) || isNaN(lon)) return; // skip invalid
+
+                const cat = row.category;
+                const prop = {
+                    name: row.name,
+                    category: cat,
+                    website: row.website,
+                    address: row.address,
+                    city: row.city
+                };
+
+                const marker = L.marker([lat, lon], { icon: makeIcon(cat) });
+                marker.bindPopup('<b>' + prop.name + '</b>' +
+                    '<p style="padding:0;margin:0;">' + prop.address + '<br/>' +
+                    prop.city + '</p>' +
+                    (prop.website ? '<a target="blank_" href="' + prop.website + '">' + prop.website + "</a>" : '')
+                );
+
+                if (!(cat in places)) places[cat] = [];
+                places[cat].push({
+                    'prop': prop,
+                    'marker': marker
+                });
+            });
+
+            createTable();
+            draw();
+        });
 }
 
 function toggleNav() {
