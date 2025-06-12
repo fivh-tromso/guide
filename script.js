@@ -146,16 +146,16 @@ var translations = {
 	'icon': 'checkroom'
     },
     'tools': {
-	'text': 'Verktøyutleie- og utlån',
+	'text': 'Reparasjon og verktøyutlån/-leie',
 	'icon': 'handyman'
     },
     'sports': {
-	'text': 'Utlån av sportsutstyr',
-	'icon': 'downhill_skiing'
+	'text': 'Delingsøkonomi',
+	'icon': 'diversity_4'
     },
     'events': {
 	'text': 'Arrangementer',
-	'icon': 'downhill_skiing'
+	'icon': 'campaign'
     }
 }
 
