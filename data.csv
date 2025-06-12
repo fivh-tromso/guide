@@ -1,5 +1,5 @@
 name,category,website,address,city,geometry,info
-7. JUNI: Utendørs bruktmarked,events,https://fb.me/e/34XsP5m2x,"Rødbanken, Storgata 66",9008 Tromsø,"18.9556428,69.6491423",i regi FIVH Nord
+Første lørdag i måneden: Utendørs bruktmarked,events,https://fb.me/e/34XsP5m2x,"Rødbanken, Storgata 66",9008 Tromsø,"18.9556428,69.6491423",i regi FIVH Nord
 Bardus Bistro (kortreist mat),food,https://www.bardus.no/,Cora Sandels gate 4,9008 Tromsø,"18.95558,69.65055",
 BaseCamp Tromsø (ski- og sykkelreparatør),sports,https://www.facebook.com/basecamptromso/,Mellomvegen 16,9007 Tromsø,"18.9486,69.64704",
 Bike Kitchen,bike,https://www.facebook.com/profile.php?id=100068874124114,Strandvegen 50,9007 Tromsø,"18.94056,69.64099",
@@ -20,7 +20,7 @@ OmMøblert,clothes,http://www.ommoblert.no/,"Skippergata 35-39, Inngang fra, Ott
 Perfekt Renseri AS,clothes,Perfekt Renseri AS,Grønnegata 99,9008 Tromsø,"18.95748,69.65264",
 Postludium - bruktbutikk,clothes,https://kirkensbymisjon.no/gjenbruksbutikken-postludium/,Skippergata 4 A,9008 Tromsø,"18.96034,69.65279",gjør diverse syjobber som reparasjon
 fint,food,https://www.kafe.pust.io/,Skippergata 1C,9008 Tromsø,"18.96051,69.65217",
-Rebell Remiks Bærekraftssenter,clothes,,"Kvaløyvegen 329, 9016 Tromsø",,,"Vi har varemottak for salgbare varer som noen kan se nytte i. 
+Rebell Remiks Bærekraftssenter,clothes,,"Kvaløyvegen 329, 9016 Tromsø",,"18.9198051,69.669132324","Vi har varemottak for salgbare varer som noen kan se nytte i. 
 Du kan også finne møbler til hybelen eller leiligheten til en billig penge. 
 Vi tilbyr gratis henting av møbler som er salgbare, og i kan også levere avfall til returstasjonen for en billig penge.
 
@@ -32,15 +32,16 @@ Det står mye på agendaen utover høsten, og som vi jobber med å iversette.
 Og hver lørdag har vi kafe med hyggelige priser. Det er lokale idrettslag og foreninger som driver kafeen, og får h"
 REKO-Ringen (direktehandel fra bonden,food,https://www.facebook.com/groups/rekotromso/,Breiviklia 2,9019 Tromsø,"18.981207,69.678623","pop-up sjekk Facebook), parkeringsplass utenfor Breivikahallen"
 Remiks Bruktbutikk / Bli Rebell,clothes,https://www.blirebell.no/,Kvaløyvegen 329,9016 Tromsø,"18.92001,69.66931",
-Steget Videre skomakeri,tools,"https://www.stegetvidere.no, https://www.facebook.com/stegetvidereskomakeri, https://www.instagram.com/stegetvidere_skomakeri ","Torgcenteret 1.etg, Storgata 81, 9008 Tromsø",,,"OMSÅLING
+Steget Videre Skomakeri,tools,"https://www.stegetvidere.no, https://www.facebook.com/stegetvidereskomakeri, https://www.instagram.com/stegetvidere_skomakeri ","Torgcenteret 1.etg, Storgata 81",9008 Tromsø,"18.95832,69.65071","OMSÅLING
 REPARASJONER
 GLIDELÅS
 GROVSØM"
-Steget Videre Skomakeri,tools,https://stegetvidere.no/,Storgata 81,9008 Tromsø,"18.95832,69.65071",
 Svermeri Kafé og Redesign,clothes,https://www.facebook.com/svermeri,Skippergata 2,9008 Tromsø,"18.95986,69.65281",
 Tromsø Bruktbokhandel,clothes,https://www.facebook.com/Troms%C3%B8-Bruktbokhandel-478411402273244/,Kirkegata 6 (til venstre bak City to Summit),9008 Tromsø,"18.95644,69.64827",
 Tromsø Frimerke & Mynt,clothes,,Storgata 81B,9008 Tromsø,"18.95769,69.65078",
-Tromsø Husflidslag,clothes,https://husflid.no/lag/troms-regionhusflidslag/tromso-husflidslag/,,,,Kurs i diverse
+Tromsø Husflidslag,clothes,https://husflid.no/lag/troms-regionhusflidslag/tromso-husflidslag/,"Troms fylkeskultursenter Kysten
+Strandveien 65
+",9006 Tromsø,"18.933538,69.637803",Kurs i diverse
 Tromsø Outdoor (utleie),clothes,http://www.tromsooutdoor.no/,Fredrik Langes gate 14,9008 Tromsø,"18.95797,69.64926",
 Tromsø Ski og Sykkel (service or reparasjon),sports,https://www.tromsoskiogsykkel.no/,Ærfuglvegen 3B,9015 Tromsø,"18.93028,69.67523",
 Tromsø Skomakerverksted,tools,http://tromsoskomakerverksted.no/,Strandgata 34,9008 Tromsø,"18.95600, 69.64804","Vårt dyktige team av skomakere har lang erfaring innen skoreparasjon. Vi kan fikse alt fra såler og hæler til sømmer og glidelåser, slik at du kan bruke favorittskoene dine lenger."
@@ -54,3 +55,5 @@ Tromsøskapere - MAKERSPACE,tools,https://www.tromsoskapere.no/skogstua,Skogstua
 Skogstua skal også brukes til kurs, aktiviteter, prosjekter og samarbeid med andre miljø.
 Velkommen til vårt nye fellesverksted!"
 TORSDAGER: Fiksekveld på Tromsø folkeverksted kl 18-20:30,events,https://fb.me/e/32jZipQiQ,Adolf Thomsens gate 5,9008 Tromsø,"18.95710,69.64926","Gratis reparasjons- og hobbyverksted. Fellesskap hvor du får hjelp til å bruke verktøy og utstyr for å reparere og vedlikeholde SKI, SYKKEL, TEKSTIL og en god del mer. Frivillig drevet av FIVH Tromsø som veileder deg med verktøyene og reparasjonene. Men du må oftest reparere og føle på mestringa sjæl."
+"30. AUGUST: Stå Opp-markering for klima, natur og miljø",events,https://staa-opp.no,Hele Norge!,Tromsø,"18.95089815, 69.6499364",Det skjer i Tromsø også!
+Tromsø bibliotekt,sports,http://www.tromso.kommune.no/bibliotek,Grønnegata 94,9008 Tromsø,"18.954709089, 69.650710018","Bøker, gamle og nye, filmer, spill, kaffe og aviser."
