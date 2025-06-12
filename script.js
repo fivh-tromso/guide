@@ -1,3 +1,11 @@
+
+// Safari touch compatibility
+document.addEventListener(
+  'touchstart',
+  function () {},
+  { passive: false }
+);
+
 var map;
 var places = {};
 var layers = {};
