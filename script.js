@@ -242,7 +242,7 @@ function loadPlaces() {
                     city: row.city
                 };
 
-                const marker = L.marker([lat, lon], { icon: makeIcon(cat) });
+                var marker = L.marker([lat, lon], { icon: makeIcon(cat) });
                 marker.bindPopup('<b>' + prop.name + '</b>' +
                     '<p style="padding:0;margin:0;">' + prop.address + '<br/>' +
                     prop.city + '</p>' +
