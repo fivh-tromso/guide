@@ -138,15 +138,15 @@ var translations = {
 	'icon': 'restaurant'
     },
     'bike': {
-	'text': 'Sykkel',
+	'text': 'Reise og opplevelser',
 	'icon': 'pedal_bike'
     },
     'clothes': {
-	'text': 'Klær',
+	'text': 'Klær og gjenbruk',
 	'icon': 'checkroom'
     },
     'tools': {
-	'text': 'Reparasjon og verktøyutlån/-leie',
+	'text': 'Reparasjon og verktøy',
 	'icon': 'handyman'
     },
     'sports': {
