@@ -151,7 +151,7 @@ var translations = {
     },
     'sports': {
 	'text': 'Delingsøkonomi',
-	'icon': 'diversity_4'
+	'icon': 'diversity4'
     },
     'events': {
 	'text': 'Arrangementer',
