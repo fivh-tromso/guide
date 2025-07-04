@@ -10,15 +10,15 @@ Dette prosjektet sikter på å gi folk en oversikt bruktbutikker, reparasjoner, 
 
 Guiden har kategoriene:
 
-🛠️ Verktøyutleie- og utlån
+🛠️ Reparasjonssteder
 
 🍴 Mat	
 
-🚲 Sykkel
+🚲 Bærekraftig transport/Opplevelser
 
-⛷️ Utlån av sportsutstyr	
+⛷️ Delingsøkonomi - utlån, utleie, delebiler, bøker, osv.
 
-👕 Klær (gjenbruk)
+👕 Klær og gjenbruksbutikker
 
 
 Guiden er basert på åpen kildekode.
