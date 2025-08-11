@@ -177,14 +177,15 @@ function createTable() {
 		    "onClick=pop('" + cat + "'," + cnt + "); style='display: none'>\n" +
 		    "<td class='placename'>" + place['prop']['name'] + "</td>\n" + 
 		    "<td align='right'>" +
-		        (place['prop']['website']
-		          ? "<a href='" + place['prop']['website'] + "' target='_blank'>➜</a>"
-		          : ""
-		        ) +
 		        (place['prop']['info']
 		          ? " <span class='info-icon' title='" + infoText + "'>ℹ️💡</span>"
 		          : ""
 		        ) +
+				(place['prop']['website']
+		          ? "<a href='" + place['prop']['website'] + "' target='_blank'>➜</a>"
+		          : ""
+		        ) +
+		        
 		    "</td>\n</tr>\n";
 		cnt++;
 	}
