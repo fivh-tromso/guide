@@ -247,14 +247,16 @@ function loadPlaces() {
                     category: cat,
                     website: row.website,
                     address: row.address,
-                    city: row.city
+                    city: row.city,
+					info: row.info
                 };
 
                 const marker = L.marker([lat, lon], { icon: makeIcon(cat) });
                 marker.bindPopup('<b>' + prop.name + '</b>' +
                     '<p style="padding:0;margin:0;">' + prop.address + '<br/>' +
                     prop.city + '</p>' +
-                    (prop.website ? '<a target="blank_" href="' + prop.website + '">' + prop.website + "</a>" : '')
+                    (prop.website ? '<a target="blank_" href="' + prop.website + '">' + prop.website + "</a>" : '') + 
+    				(prop.info ? ' <span class="info-icon" title="' + infoText + '">ℹ️</span>' : '')
                 );
 
                 if (!(cat in places)) places[cat] = [];
