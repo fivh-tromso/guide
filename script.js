@@ -170,13 +170,23 @@ function createTable() {
 	var cnt = 0;
 	places[cat].view = false;
 	for (place of places[cat]) {
-	    tableContent += "<tr class='place " + cat +
-		"' onClick=pop('" + cat + "'," +
-		cnt + "); style='display: none'>\n<td class='placename'>" +
-		place['prop']['name'] + "</td>\n" + 
-		"<td align='right'><a href='" + place['prop']['website'] +
-		"' target='_blank'>➜</a></td>\n</tr>\n";
-	    cnt++;
+		let infoText = place['prop']['info'] ? place['prop']['info'] : "No extra info";
+		infoText = infoText.replace(/"/g, '&quot;'); // escape quotes for HTML
+		
+		tableContent += "<tr class='place " + cat + "' " +
+		    "onClick=pop('" + cat + "'," + cnt + "); style='display: none'>\n" +
+		    "<td class='placename'>" + place['prop']['name'] + "</td>\n" + 
+		    "<td align='right'>" +
+		        (place['prop']['website']
+		          ? "<a href='" + place['prop']['website'] + "' target='_blank'>➜</a>"
+		          : ""
+		        ) +
+		        (place['prop']['info']
+		          ? " <span class='info-icon' title='" + infoText + "'>ℹ️</span>"
+		          : ""
+		        ) +
+		    "</td>\n</tr>\n";
+		cnt++;
 	}
     }
     document.getElementById("tableview").innerHTML = tableContent;
@@ -258,6 +268,24 @@ function loadPlaces() {
                     (prop.website ? '<a target="blank_" href="' + prop.website + '">' + prop.website + "</a>" : '') + 
     				(prop.info ? ' <span class="info-icon" title="' + infoText + '">ℹ️</span>' : '')
                 );
+
+				const marker = L.marker([lat, lon], { icon: makeIcon(cat) });
+				let infoText = prop.info ? prop.info.replace(/"/g, '&quot;') : "No extra info";
+				marker.bindPopup(
+				    '<b>' + prop.name + '</b>' +
+				    '<p style="padding:0;margin:0;">' +
+				        (prop.address ? prop.address + '<br/>' : '') +
+				        (prop.city ? prop.city : '') +
+				    '</p>' +
+				    (prop.website
+				        ? '<a target="_blank" href="' + prop.website + '">' + prop.website + '</a>'
+				        : ''
+				    ) +
+				    (prop.info
+				        ? ' <span class="info-icon" title="' + infoText + '">ℹ️</span>'
+				        : ''
+				    )
+				);
 
                 if (!(cat in places)) places[cat] = [];
                 places[cat].push({
