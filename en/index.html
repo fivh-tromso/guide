@@ -1,0 +1,64 @@
+<html>
+  <head>
+    <title>Sustainable Tromsø-guide</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./MarkerCluster.css"/>
+    <meta property="og:image" content="https://fivh-tromso.github.io/guide/screenshot2.png" />
+    <script src="./leaflet.markercluster.js"></script>
+    <link rel="icon"
+	  type="image/png"
+	  href="https://www.framtiden.no/favicon.ico">
+    <script src="./script.js"></script>
+  </head>
+  <body onload="init()">
+
+    <div id="header">
+      <div id="logo">
+	<img src="logo.png" alt="logo" height="150px;">
+      </div>
+      <div id="titlebanner">
+	<h1 class="title">Bærekraftig Tromsø-guide (beta)</h1>
+	<h3 class="title">Helping you connect with sustainability focused businesses in Tromsø.
+ <br>Discover a list of second hand stores, loan and rental services, repairers, and nature-based experiences in the Tromsø region.  </h3>
+      </div>
+    </div>
+
+	<div style="position: absolute; top: 20px; right: 20px; z-index: 1000; display: flex; align-items: center;">
+	<a href="/guide" title="Bytt til norsk versjon" style="text-decoration: none; font-weight: bold; font-size: 14px; color: #000; display: flex; align-items: center;">
+	<img src="icon_language.png" alt="Swap English/Norwegian" style="width: 32px; height: auto; margin-right: 6px; border-radius: 2px;">
+	EN
+	</a>
+	</div>
+	  
+    <div id="content">
+      <div id="map"></div>
+      <div id="rightcol">
+	<div id="tablecont">
+	  <table id="tableview">
+	  </table>
+	</div>
+      </div>
+
+      <div id="showMenu">
+	<button class="openbtn" onclick="toggleNav()">
+	  <i id="fold_menu" class='material-icons'>navigate_before</i>
+	</button>
+      </div>
+    </div>
+
+    <div id="footer">
+      <p>This list is created by volunteers and community members and is not exhaustive. </p>
+      <p>To contribute, please use <a target="_blank" href="https://forms.office.com/e/sn8SK5iuQF">THIS FORM</a>.</p>
+      <p>This webpage is based on <a target="_blank" href="https://github.com/fivh-tromso/guide/">open source code</a>, originally developed by Pierre Beauguitte and Oslo Studentlag. </p>
+      <p>More information on FIVH Tromsø can be found on <a target="_blank" href="https://www.facebook.com/fivhnord">Facebook</a> / <a target="_blank" href="https://www.instagram.com/framtidennord/">Instagram</a> / <a target="_blank" href="https://www.framtiden.no/om-oss/lokallag/troms-og-finnmark">framtiden.no</a>. Direct correspondence with FIVH Tromsø via <a href="mailto:tromso@framtiden.no"> email</a> </p>
+      <p>Many thanks to our contributors: list coming soon. </p>
+    </div>
+
+  </body>
+</html>
