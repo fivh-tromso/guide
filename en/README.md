@@ -33,7 +33,7 @@ Are you jealous that there isn't a guide where you live? Get in touch, it's supe
 
 👏 CREDS 👏
 
-Thanks to everyone who has contributed with drive and to this project: Sietske, Erik, Kristina, Carla, Sigurd, Laila, Andrea, Amelie, Megan, Helene, Johan, Sivert, Ingunn, Zselam.
+Thanks to everyone who has contributed with drive and to this project: Sietske, Erik, Kristina, Carla, Sigurd, Laila, Andrea, Amelie, Megan, Helene, Johan, Sivert, Ingunn, Zselam, Hanne Gro.
 
 And then a special thanks must be given to Marie Søndergaard at FIVH Nord, Andrea Schneider at UiT and not least Maria Wirkola at Samskipnaden, who made sure to give the right push to get this out of the box and into the light of day.
 
