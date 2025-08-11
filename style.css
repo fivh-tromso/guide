@@ -60,6 +60,12 @@ a {
     margin-top:20px;
 }
 
+.info-icon {
+  cursor: help;
+  margin-left: 5px;
+  font-size: 14px;
+}
+
 #footer {
     width:100%;
     float:left;
