@@ -7,7 +7,7 @@ The guide:
 
 https://fivh-tromso.github.io/guide/
 
-This project aims to give you an easy-to-use overview of where you can find thrift stores, repair your stuff, rent and borrow things, find sustainable food and communities and activities that drive sustainability. By that we don't mean the kind of symbolic sustainability that all the advertisements wave, no. To the f*ck with the overconsumption society, back to reuse, repair, circularity, simple good lives and good communities.
+This project aims to give you an easy-to-use overview of where you can find thrift stores, repair your stuff, rent and borrow things, find sustainable food and communities and activities that drive sustainability. By that we don't mean the kind of symbolic sustainability in all the advertisements shite, no. To h*** with the overconsumption, pave the way: retake reuse, repair, circularity, simple good lives and good communities.
 
     🗺️ CATEGORIES 🗺️
     
