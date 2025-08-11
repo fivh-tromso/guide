@@ -230,7 +230,7 @@ function loadPlaces2() {
 }
 
 function loadPlaces() {
-    fetch('./data.csv')
+    fetch('/data.csv')
         .then(response => response.text())
         .then(csvText => {
             const parsed = Papa.parse(csvText, {
