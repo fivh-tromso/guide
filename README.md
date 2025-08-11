@@ -37,7 +37,7 @@ Er du sjalu for at det ikke finnes en guide der du bor? Ta kontakt, det er kjemp
 
 👏 CREDS 👏
 
-Takk til alle som har bidratt med drivkraft og til dette prosjektet: Sietske, Erik, Kristina, Carla, Sigurd, Laila, Andrea, Amelie, Megan, Helene, Johan, Sivert, Ingunn, Zselam.
+Takk til alle som har bidratt med drivkraft og til dette prosjektet: Sietske, Erik, Kristina, Carla, Sigurd, Laila, Andrea, Amelie, Megan, Helene, Johan, Sivert, Ingunn, Zselam, Hanne Gro.
 
 Og så må det rettes en spesiell takk til Marie Søndergaard i FIVH Nord, Andrea Schneider på UiT og ikke minst Maria Wirkola ved Samskipnaden, som sørget for å gi de riktige dyttene for å få dette ut av skuffen og ut i dagens lys.
 
