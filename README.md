@@ -9,14 +9,14 @@ https://fivh-tromso.github.io/guide/
 
 Dette prosjektet sikter på å gi deg en enkel-å-bruke oversikt over hvor du kan finne bruktbutikker, reparere dine ting, leie og låne ting, finne bærekraftig mat og fellesskap og akviviteter som driver frem bærekraft. Da mener vi ikke en slik symbolsk bærekraft som alle reklamene vifter med, nei. Til h****** med overforbrukssamfunnet, tilbake med gjenbruk, reparasjon, sirkulæritet, enkle bra liv og gode fellesskap.
 
-    Guiden har kategoriene:
+    🗺️ KATEGORIER 🗺️
     
-    - 🎟️📣 Arrangementer - kommende demoer og arrangementer som anses å fremme bærekraftig fremgang og mindsets.
-    - 🛠️👨‍🔧 Reparasjon og verktøy	- Både reparatører, utleiere og fellesskap for reparerasjon av ting og tang.
-    - 🍴🌱 Mat	- I startfasen, men idéen er aktører som fokuserer på mat med laveste klima- og miljøfotavtrykk, lokal bærekraft og/eller dyrevelferd.
-    - 👕♻️ Klær og gjenbruk - Bruktbutikker som tilbyr fine klær, møbler, sportsutstyr osv osv!
-    - 📚🤝 Delingsøkonomi og fellesskap - Lån, utleie og felles eierskap av ting. Biblioteker i videre forstand, det lønner seg for lommebok og planet å øke brukstiden til ting, fra bøker til biler. sportsutstyr. Fellesskap og møteplasser gjør godt.
-    - 🚌🌄 Reise og opplevelser - Ta buss eller til en tur i nærområdet. Lei bil eller samkjør. En opplevelse i det fri gjør godt, og holder deg unna kjøpesentrene og internettreklamene.
+    🎟️📣 Arrangementer - kommende demoer og arrangementer som anses å fremme bærekraftig fremgang og mindsets.
+    🛠️👨‍🔧 Reparasjon og verktøy	- Både reparatører, utleiere og fellesskap for reparerasjon av ting og tang.
+    🍴🌱 Mat	- I startfasen, men idéen er aktører som fokuserer på mat med laveste klima- og miljøfotavtrykk, lokal bærekraft og/eller dyrevelferd.
+    👕♻️ Klær og gjenbruk - Bruktbutikker som tilbyr fine klær, møbler, sportsutstyr osv osv!
+    📚🤝 Delingsøkonomi og fellesskap - Lån, utleie og felles eierskap av ting. Biblioteker i videre forstand, det lønner seg for lommebok og planet å øke brukstiden til ting, fra bøker til biler. sportsutstyr. Fellesskap og møteplasser gjør godt.
+    🚌🌄 Reise og opplevelser - Ta buss eller til en tur i nærområdet. Lei bil eller samkjør. En opplevelse i det fri gjør godt, og holder deg unna kjøpesentrene og internettreklamene.
 
 
 Alt er basert på åpen kildekode og av frivillig innsats. Vi kunne derfor alltids trenge litt hjelp ☺️
@@ -24,10 +24,10 @@ Alt er basert på åpen kildekode og av frivillig innsats. Vi kunne derfor allti
 
     👨‍💻 HVA KAN DU HJELPE MED 👨‍💻
     
-    - 💬Spre bruken - jo fler som bruker den, jo flere oppdager de mange kule stedene vi har her i Tromsø.
-    - 🎖️Bli en lokal ekspert - oppdatere innholdet og stedene. Slette utdaterte.
-    - ✍️Bli redaktør - det hadde vært kult å gjøre noen slags "reportasjer" av stedene vi har her i guiden, og annonsere nye steder som kommer med!
-    - 👾Er du IT-kyndig - ville vært kult med noen kommentarfunksjoner, men det vet ikke vi hvordan vi gjør :)
+    💬Spre bruken - jo fler som bruker den, jo flere oppdager de mange kule stedene vi har her i Tromsø.
+    🎖️Bli en lokal ekspert - oppdatere innholdet og stedene. Slette utdaterte.
+    ✍️Bli redaktør - det hadde vært kult å gjøre noen slags "reportasjer" av stedene vi har her i guiden, og annonsere nye steder som kommer med!
+    👾Er du IT-kyndig - ville vært kult med noen kommentarfunksjoner, men det vet ikke vi hvordan vi gjør :)
 
 
 🤔 BOR DU IKKE I TROMSØ? 🤔
