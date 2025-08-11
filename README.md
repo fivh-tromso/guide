@@ -1,7 +1,7 @@
 # Bærekraftig guide Tromsø
 ## Kart over aktører som driver bærekraftig i Tromsø og omegn
 
-Gi tilbakemelding: Bruk Forms skjema-linken nederst under kartet i guiden, eller send oss e-post.
+Gi tilbakemelding? Bruk Forms skjema-linken nederst under kartet i guiden, eller send oss e-post.
 
 Guiden: 
 
