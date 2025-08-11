@@ -87,6 +87,12 @@ a {
     font-size: 14px;
 }
 
+.info-icon {
+  cursor: help;
+  margin-left: 5px;
+  font-size: 14px;
+}
+
 .marker-pin {
     width: 40px;
     height: 40px;
