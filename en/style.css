@@ -91,6 +91,7 @@ a {
   cursor: help;
   margin-left: 5px;
   font-size: 14px;
+  text-decoration: underline;
 }
 
 .marker-pin {
