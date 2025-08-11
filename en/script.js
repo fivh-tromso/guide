@@ -251,7 +251,7 @@ function loadPlaces() {
 				        : ''
 				    ) +
 				    (prop.info
-				        ? ' <span class="info-icon" title="' + infoText + '">info💡</span>'
+				        ? ' <span class="info-icon" title="' + infoText + '">more info💡</span>'
 				        : ''
 				    )
 				);
