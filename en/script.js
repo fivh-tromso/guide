@@ -203,34 +203,9 @@ function makeIcon(cat) {
     });
 }
 
-function loadPlaces2() {
-    $.getJSON("data.json",function(data) {
-	L.geoJson(data, {
-	    pointToLayer: function(feature,latlng) {
-		var marker = L.marker(latlng,
-				      {icon: makeIcon(feature.properties.category)});
-		marker.bindPopup('<b>' + feature.properties.name + '</b>' +
-				 '<p style="padding:0;margin:0;">' + feature.properties.address + '<br/>' +
-				 feature.properties.city + '</p>' +
-				 '<a target="blank_" href=' + feature.properties.website + '>'
-				 + feature.properties.website + "</a>");
-		if (!(feature.properties.category in places))
-		    places[feature.properties.category] = [];
-		places[feature.properties.category].push(
-		    {
-			'prop': feature.properties,
-			'marker': marker
-		    }
-		);
-	    }
-	})
-	createTable();
-	draw();
-    });
-}
 
 function loadPlaces() {
-    fetch('/data.csv')
+    fetch('../data.csv')
         .then(response => response.text())
         .then(csvText => {
             const parsed = Papa.parse(csvText, {
