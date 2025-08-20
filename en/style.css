@@ -70,6 +70,13 @@ a {
     padding-top: 20px;
 }
 
+.info-icon {
+  cursor: help;
+  margin-left: 5px;
+  font-size: 14px;
+  text-decoration: underline;
+}
+
 #map {
     width: 70%;
     min-width: 600px;
@@ -88,12 +95,6 @@ a {
     font-size: 14px;
 }
 
-.info-icon {
-  cursor: help;
-  margin-left: 5px;
-  font-size: 14px;
-  text-decoration: underline;
-}
 
 .marker-pin {
     width: 40px;
