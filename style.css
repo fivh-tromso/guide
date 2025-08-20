@@ -58,6 +58,16 @@ a {
 .title {
     margin-bottom: 0px;
     margin-top:20px;
+	width:95%;
+}
+
+#footer {
+    width:90%;
+    float:left;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
 }
 
 .info-icon {
@@ -67,14 +77,6 @@ a {
   text-decoration: underline;
 }
 
-#footer {
-    width:100%;
-    float:left;
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-bottom: 20px;
-    padding-top: 20px;
-}
 
 #map {
     width: 70%;
