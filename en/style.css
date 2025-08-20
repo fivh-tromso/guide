@@ -39,7 +39,7 @@ a {
     width:100%;
     float:left;
     height: 150px;
-    overfow: visible;
+    overflow: visible;
 }
 
 #logo {
@@ -58,10 +58,11 @@ a {
 .title {
     margin-bottom: 0px;
     margin-top:20px;
+	width:90%;
 }
 
 #footer {
-    width:100%;
+    width:90%;
     float:left;
     padding-left: 50px;
     padding-right: 50px;
