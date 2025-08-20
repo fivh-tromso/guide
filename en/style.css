@@ -50,7 +50,7 @@ a {
     position: relative;
     left: 50;
     min-width: 500px;
-    overlow: visible;
+    overflow: visible;
     padding-left: 50px;
     padding-top: 10px;
 }
