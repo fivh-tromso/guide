@@ -67,51 +67,68 @@
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
 
   <script>
-    // Function to sort the table
-    function makeTableSortable(tableId) {
+    // Store current sort state globally to initialize the default sort
+    let currentSortedColumn = null;
+    let currentSortDirection = 'asc';
+
+    // Function to sort the table and update arrows
+    function sortTableByColumn(table, index, direction) {
+      const tbody = table.querySelector('tbody');
+      const rows = Array.from(tbody.querySelectorAll('tr'));
+
+      rows.sort((a, b) => {
+        let cellA = a.children[index].textContent.trim();
+        let cellB = b.children[index].textContent.trim();
+
+        // Attempt numeric sorting if possible
+        const numA = parseFloat(cellA.replace(/[^0-9.-]+/g,""));
+        const numB = parseFloat(cellB.replace(/[^0-9.-]+/g,""));
+
+        if (!isNaN(numA) && !isNaN(numB)) {
+          return direction === 'asc' ? numA - numB : numB - numA;
+        }
+        return direction === 'asc' ?
+          cellA.localeCompare(cellB) :
+          cellB.localeCompare(cellA);
+      });
+
+      // Append sorted rows
+      rows.forEach(row => tbody.appendChild(row));
+
+      // Update sort direction classes on headers
+      table.querySelectorAll('th').forEach((th, i) => {
+        th.classList.remove('asc', 'desc');
+        if(i === index) {
+          th.classList.add(direction);
+        }
+      });
+
+      // Update global sort state
+      currentSortedColumn = index;
+      currentSortDirection = direction;
+    }
+
+    // Makes the table headers clickable for sorting
+    function makeTableSortable(tableId, defaultSortColumn = null, defaultDirection = 'asc') {
       const table = document.getElementById(tableId);
       const headers = table.querySelectorAll('th');
       let sortDirections = Array(headers.length).fill(null);
 
       headers.forEach((th, index) => {
         th.addEventListener('click', () => {
-          const currentDirection = sortDirections[index];
-          const newDirection = currentDirection === 'asc' ? 'desc' : 'asc';
-          sortDirections.fill(null);
-          sortDirections[index] = newDirection;
-
-          // Remove sort classes from all headers
-          headers.forEach(h => h.classList.remove('asc', 'desc'));
-          th.classList.add(newDirection);
-
-          const tbody = table.querySelector('tbody');
-          // Convert rows NodeList to array to sort it
-          const rowsArray = Array.from(tbody.querySelectorAll('tr'));
-
-          rowsArray.sort((rowA, rowB) => {
-            const cellA = rowA.children[index].textContent.trim();
-            const cellB = rowB.children[index].textContent.trim();
-
-            // Check if numeric comparison
-            const numA = parseFloat(cellA.replace(/[^0-9.-]+/g,""));
-            const numB = parseFloat(cellB.replace(/[^0-9.-]+/g,""));
-
-            if (!isNaN(numA) && !isNaN(numB)) {
-              return newDirection === 'asc' ? numA - numB : numB - numA;
-            }
-            // Else string comparison
-            return newDirection === 'asc'
-              ? cellA.localeCompare(cellB)
-              : cellB.localeCompare(cellA);
-          });
-
-          // Append sorted rows back to tbody
-          rowsArray.forEach(row => tbody.appendChild(row));
+          // Toggle direction - if already sorted by this column, reverse direction, else ascending
+          const newDirection = (currentSortedColumn === index && currentSortDirection === 'asc') ? 'desc' : 'asc';
+          sortTableByColumn(table, index, newDirection);
         });
       });
+
+      // If default column specified, run initial sort and show arrow
+      if (defaultSortColumn !== null && headers[defaultSortColumn]) {
+        sortTableByColumn(table, defaultSortColumn, defaultDirection);
+      }
     }
 
-    // Fetch and parse CSV, then build and display table
+    // Fetch, parse CSV and build table with default sort on 'category' column
     fetch('data.csv')
       .then(response => {
         if (!response.ok) throw new Error('Failed to load CSV');
@@ -124,7 +141,7 @@
         if (!parsed.data.length) throw new Error('CSV is empty or invalid');
 
         let html = '<table id="sortableTable"><thead>';
-        // First row as headers
+        // First row is headers
         const headers = parsed.data[0];
         html += '<tr>';
         headers.forEach(header => {
@@ -145,8 +162,11 @@
         const container = document.getElementById('table-container');
         container.innerHTML = html;
 
-        // Make table sortable
-        makeTableSortable('sortableTable');
+        // Find 'category' column index (case insensitive)
+        const categoryIndex = headers.findIndex(h => h.toLowerCase() === 'category');
+
+        // Make table sortable and apply default sort on category column ascending
+        makeTableSortable('sortableTable', categoryIndex, 'asc');
       })
       .catch(err => {
         document.getElementById('table-container').innerHTML =
