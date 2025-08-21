@@ -58,7 +58,7 @@ a {
 .title {
     margin-bottom: 0px;
     margin-top:20px;
-	width:96%;
+	width:95%;
 }
 
 #footer {
@@ -77,7 +77,6 @@ a {
   text-decoration: underline;
 }
 
-
 #map {
     width: 70%;
     min-width: 600px;
@@ -95,6 +94,7 @@ a {
 .leaflet-popup-content {
     font-size: 14px;
 }
+
 
 .marker-pin {
     width: 40px;
@@ -236,7 +236,7 @@ table tr.events:hover td    { background-color: var(--events);        }
 	--tabwidth: 700px;
     }
     #map {
-	height: 95%;
+	height: 90%;
 	width: 100%;
     }
     .leaflet-popup-content {
@@ -325,7 +325,7 @@ table tr.events:hover td    { background-color: var(--events);        }
 
     .title {
 	margin-bottom: 0px;
-	margin-top:13px;
+	margin-top:5px;
 	width:95%;
     }
 } 
