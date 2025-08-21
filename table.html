@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CSV Table Viewer</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; background: #f6f9fb; }
+    h1 { color: #33475b; }
+    table { border-collapse: collapse; width: 100%; background: #fff; }
+    th, td { padding: 10px; border: 1px solid #c3c3c3; text-align: left; }
+    th { background: #e9ecf1; }
+    tr:nth-child(even) { background: #f6f9fb; }
+    .loading { color: #8b8b8b; }
+    .error { color: red; }
+  </style>
+</head>
+<body>
+  <h1>Data Table from data.csv</h1>
+  <div id="table-container">
+    <span class="loading">Loading CSV data...</span>
+  </div>
+  <!-- Papa Parse CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script>
+    fetch('data.csv')
+      .then(response => {
+        if (!response.ok) throw new Error('Failed to load CSV');
+        return response.text();
+      })
+      .then(csvText => {
+        const data = Papa.parse(csvText, {header: false});
+        let html = '<table>';
+        data.data.forEach((row, i) => {
+          if(row.length === 1 && !row[0]) return; // skip empty
+          html += '<tr>' + row.map((cell, idx) => 
+            (i === 0 ? '<th>' : '<td>') + 
+            (cell !== undefined ? cell : '') + 
+            (i === 0 ? '</th>' : '</td>')
+          ).join('') + '</tr>';
+        });
+        html += '</table>';
+        document.getElementById('table-container').innerHTML = html;
+      })
+      .catch(err => {
+        document.getElementById('table-container').innerHTML =
+          '<span class="error">Error loading the CSV file.</span>';
+      });
+  </script>
+</body>
+</html>
