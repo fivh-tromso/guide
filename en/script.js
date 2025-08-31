@@ -54,7 +54,7 @@ L.MarkerClusterGroup.include({
 });
 
 function init() {
-    map = L.map('map').setView([69.65, 18.94], 13); 
+    map = L.map('map', {tap: false}).setView([69.65, 18.94], 13); 
     L.tileLayer(
 	'https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.png',
 	{
