@@ -65,8 +65,8 @@ function init() {
 	    maxZoom: 20,
 	    minZoom: 11,
 	}).addTo(map);
- 	map.setMaxBounds(L.latLngBounds(L.latLng(69.8000, 18.5000),
-				    L.latLng(69.6000, 19.2000)));
+    map.setMaxBounds(L.latLngBounds(L.latLng(69.9500, 18.3500),
+				     L.latLng(69.4500, 19.3500)));
     loadPlaces();
 }
 
