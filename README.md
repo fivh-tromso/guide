@@ -4,7 +4,7 @@
     💚 Laget med kjærlighet av folk for folk,          💚
     💚 for et mer bærekraftig Tromsø og en bedre verden💚
     🟧 laget av [Framtiden i våre hender Tromsø](https://linktr.ee/framtidentromso)
-    🔵 Dugnadsbasert, din hjelp blir verdsatt og bidrar.
+    🔵 Dugnadsbasert, [din hjelp](https://github.com/fivh-tromso/guide/blob/main/README.md#-hvordan-du-kan-du-kan-bidra-litt-) blir verdsatt og bidrar.
 
 
 Guiden er en stor oversikt over steder hvor du kan reparere, kjøpe brukt, låne ting, leie ting, komme i kontakt med naturen, fellesskap og arangementer som fremmer bærekraft, inkludering og:
