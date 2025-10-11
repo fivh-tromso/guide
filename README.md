@@ -47,8 +47,9 @@ Inspirerende quote: be the change you wanna see.
     😌enkel å bruke
     🫥transparans i hvorfor en aktør er med
     🌍fremmer ekte bærekraft og fellesskap i hele Tromsø omegn.
+    🏳️‍🌈inkluderende
     🚨unngå grønnvasking
-    ✌️ikke en kommersiell guide.
+    ✌️ikke en kommersiell guide
     🗣️en smule aktivistist
     🧑‍🏭solidarisk
     ⚖️en motvekt til aktører med mye penger som lobbyer og fremmer individualisme, konsumisme og den slags som fører til klimautslipp, overforbruk, naturtap, ignoranse, egoisme, kortsiktighet og skade ikke bare for Tromsø, men for verden og arbeidere vi nyter godt av.
