@@ -1,9 +1,10 @@
 # Bærekraftig guide Tromsø (Skulte grønne skatter i Tromsø)
 ### Kartguide over aktører som driver og fremmer bærekraftig i Tromsø og omegn, på mobil og PC
-🇳🇴 Offisielt lansert 13. august 2025!
-💚 Laget med kjærlighet av folk for folk, for et mer bærekraftig Tromsø og en bedre verden💚
-🟧 [Framtiden i våre hender Tromsø](https://linktr.ee/framtidentromso)
-🔵 Dugnadsbasert, din hjelp blir verdsatt og bidrar.
+    🇳🇴 Offisielt lansert 13. august 2025!
+    💚 Laget med kjærlighet av folk for folk,          💚
+    💚 for et mer bærekraftig Tromsø og en bedre verden💚
+    🟧 laget av [Framtiden i våre hender Tromsø](https://linktr.ee/framtidentromso)
+    🔵 Dugnadsbasert, din hjelp blir verdsatt og bidrar.
 
 
 Guiden er en stor oversikt over steder hvor du kan reparere, kjøpe brukt, låne ting, leie ting, komme i kontakt med naturen, fellesskap og arangementer som fremmer bærekraft, inkludering og:
