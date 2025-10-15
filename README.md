@@ -3,13 +3,15 @@ Snarveier: [🌍Guiden](https://github.com/fivh-tromso/guide/tree/main?tab=readm
 
 **Her er guiden 👉 https://fivh-tromso.github.io/guide/**
 
-🇳🇴🇬🇧 Den er på norsk og engelsk [(English information⬇️)](https://github.com/fivh-tromso/guide/tree/main/en#readme)! 
+## Oppsummert
+🇳🇴🇬🇧 På norsk og engelsk [(English information⬇️)](https://github.com/fivh-tromso/guide/tree/main/en#readme)! 
 
 💚 Laget med kjærlighet av folk for folk, for et mer bærekraftig Tromsø og en bedre verden 💚
 
 🟧 lansert og driftet av Framtiden i våre hender Tromsø [(hjemmeside🔗)](https://linktr.ee/framtidentromso) 🟧
 
 🔵 Dugnadsbasert, open-source, community-based 🔵
+
 
 
 ## 🌍Guiden viser deg aktører og aktiviteter som fremmer bærekraftige praksiser og tenkemåter 🌍
