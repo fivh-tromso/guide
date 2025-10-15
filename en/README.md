@@ -1,6 +1,7 @@
 # Sustainable Guide Tromsø
 
-Shortcuts: [🌍The Guide](#the-guide-shows-you-actors-and-activities-that-promote-sustainable-practices-and-mindsets-), [🦸Contribute](#contribute-to-the-guide), [🗺️Categories](#%EF%B8%8F-categories-in-the-guide-%EF%B8%8F), [👁️Vision](#%EF%B8%8F-visions-for-the-guide-%EF%B8%8F), [👏Creds](#-creds-), [🟧Contact Info](#-contact-information-)
+Shortcuts: [🌍The Guide](#the-guide-shows-you-actors-and-activities-that-promote-sustainable-practices-and-mindsets-), [🦸Contribute](#contribute-to-the-guide), [🗺️Categories](#%EF%B8%8F-categories-in-the-guide-%EF%B8%8F), [👁️Vision](#%EF%B8%8F-visions-for-the-guide-%EF%B8%8F), [👏Creds](#-creds-), [🟧Contact Info](#-contact-information-), [🇳🇴NORSK INFO🇳🇴](https://github.com/fivh-tromso/guide/tree/main#readme)
+
 
 
 **Here is the guide 👉 https://fivh-tromso.github.io/guide/**
@@ -10,7 +11,7 @@ Shortcuts: [🌍The Guide](#the-guide-shows-you-actors-and-activities-that-promo
 
 ## Summary
 
-🇳🇴🇬🇧 Available in Norwegian and English [(English information⬇️)](https://github.com/fivh-tromso/guide/tree/main/en#readme)!
+🇳🇴🇬🇧 Available in Norwegian and English!
 
 💚 Made with love by people for people, for a more sustainable Tromsø and a better world 💚
 
