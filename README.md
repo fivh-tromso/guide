@@ -3,7 +3,7 @@ Snarveier: [🌍Guiden](#guiden-viser-deg-aktører-og-aktiviteter-som-fremmer-b�
 
 **Her er guiden 👉 https://fivh-tromso.github.io/guide/**
 
-![Frontbilde bærekraftig guide Tromsø](/screenshot2.png)
+[![Frontbilde bærekraftig guide Tromsø](/screenshot2.png)](https://fivh-tromso.github.io/guide/)
 
 
 ## Oppsummert
