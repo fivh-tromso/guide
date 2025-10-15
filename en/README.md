@@ -5,7 +5,7 @@ Shortcuts: [🌍The Guide](#the-guide-shows-you-actors-and-activities-that-promo
 
 **Here is the guide 👉 https://fivh-tromso.github.io/guide/**
 
-[![Front image sustainable guide Tromsø](/screenshot2.png)](https://fivh-tromso.github.io/guide/)
+[![Front image sustainable guide Tromsø](/screenshot2.png)](https://fivh-tromso.github.io/guide/en)
 
 
 ## Summary
