@@ -1,5 +1,5 @@
 # Bærekraftig (sustainable) guide Tromsø
-Snarveier: [🌍Guiden](#guiden-viser-deg-aktører-som-driver-og-fremmer-bærekraft-i-tromsø-og-omegn),  [🦸Bidra](#bidra-til-guiden),  [🗺️Kategorier](#%EF%B8%8F-kategorier-i-guiden-%EF%B8%8F),  [👁️Visjon](#%EF%B8%8F-visjoner-for-guiden-%EF%B8%8F),  [👏Creds](#-creds-),  [🟧Kontaktinfo](#-kontaktinformasjon-)
+Snarveier: [🌍Guiden](#guiden-viser-deg-aktører-og-aktiviteter-som-fremmer-bærekraftige-praksiser-og-tenkemåter-)),  [🦸Bidra](#bidra-til-guiden),  [🗺️Kategorier](#%EF%B8%8F-kategorier-i-guiden-%EF%B8%8F),  [👁️Visjon](#%EF%B8%8F-visjoner-for-guiden-%EF%B8%8F),  [👏Creds](#-creds-),  [🟧Kontaktinfo](#-kontaktinformasjon-)
 
 **Her er guiden 👉 https://fivh-tromso.github.io/guide/**
 
@@ -97,6 +97,7 @@ Framtiden i våre hender Lokallag Tromsø
 
 
 **Mail: tromso@framtiden.no**
+
 **Hjemmesiden til lokallaget: [Framtiden i våre hender Tromsø (om oss og alle våre aktiviteter) 🔗)](https://linktr.ee/framtidentromso)**
 
 
