@@ -1,20 +1,22 @@
 # Bærekraftig (sustainable) guide Tromsø
 Snarveier: [🌍Guiden](https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#guiden-viser-deg-aktører-som-driver-og-fremmer-bærekraftig-i-tromsø-og-omegn),  [🦸Bidra](https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#bidra-til-guiden),  [🗺️Kategorier](https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#%EF%B8%8F-kategorier-i-guiden-%EF%B8%8F),  [👁️Visjon](https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#%EF%B8%8F-visjoner-for-guiden-%EF%B8%8F),  [👏Creds](https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#-creds-),  [🟧Kontaktinfo](https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#-kontaktinformasjon-)
 
+**Her er guiden 👉 https://fivh-tromso.github.io/guide/**
 
-
-🇳🇴🇬🇧 [Guiden](https://fivh-tromso.github.io/guide/)er på norsk og engelsk [(English information⬇️)](https://github.com/fivh-tromso/guide/tree/main/en#readme)! 
+🇳🇴🇬🇧 Den er på norsk og engelsk [(English information⬇️)](https://github.com/fivh-tromso/guide/tree/main/en#readme)! 
 
 💚 Laget med kjærlighet av folk for folk, for et mer bærekraftig Tromsø og en bedre verden 💚
 
-🟧 en guide av Framtiden i våre hender Tromsø [(hjemmeside🔗)](https://linktr.ee/framtidentromso) 🟧
+🟧 lansert og driftet av Framtiden i våre hender Tromsø [(hjemmeside🔗)](https://linktr.ee/framtidentromso) 🟧
 
 🔵 Dugnadsbasert, open-source, community-based 🔵
 
 
-## 🌍Guiden viser deg aktører som driver og fremmer bærekraft i Tromsø og omegn🌍
-Guiden gir deg et oversiktskart over steder hvor du kan reparere, kjøpe brukt, låne ting, leie ting, komme i kontakt med naturen, fellesskap og arangementer som fremmer bærekraft, sirkulære praksiser og inkludering:
-### 👉 https://fivh-tromso.github.io/guide/
+## 🌍Guiden viser deg aktører og aktiviteter som fremmer bærekraftige praksiser og tenkemåter 🌍
+Guiden gir deg full oversikt, med kart og liste over steder Tromso og omegn hvor du kan reparere, kjøpe brukt, låne ting, leie ting, komme i kontakt med naturen, finne fellesskap og arangementer som fremmer bærekraft, sirkulære praksiser og inkludering:
+
+
+**👉 https://fivh-tromso.github.io/guide/**
 
         💡Tips: Lagre som app-ikon til hjemskjermen "Del -> legg til på hjemskjermen"
 
@@ -26,7 +28,7 @@ Guiden gir deg et oversiktskart over steder hvor du kan reparere, kjøpe brukt, 
 
 **🚩BIDRA MED INNHOLD TIL GUIDEN HER: [FEEDBACK-SKJEMA🔗](https://forms.office.com/e/sn8SK5iuQF)** 
 
-### 💡Har du innspill? Send oss e-post på [tromso@framtiden.no](mailto:tromso@framtiden.no), eller bruk skjemaet over.
+**💡Har du innspill? Send oss e-post på [tromso@framtiden.no](mailto:tromso@framtiden.no), eller bruk skjemaet over.**
 
 
 Alt er basert på frivillig innsats. Vi kunne derfor alltids trenge litt hjelp ☺️
@@ -65,6 +67,8 @@ Inspirerende quote: be the change you wanna see.
     ✌️ikke en kommersiell guide
     🗣️en smule aktivistist
     🧑‍🏭solidarisk
+    🏋️løfte frem og synliggjøre de bra, bærekraftige aktivitetene i Tromsø (istedenfor å bare peke fingeren på det som er galt)
+    🌱innhold som fremmer det enkle og gode liv
     ⚖️en motvekt til aktører med mye penger som lobbyer og fremmer individualisme, konsumisme og den slags som fører til klimautslipp, overforbruk, naturtap, ignoranse, egoisme, kortsiktighet og skade ikke bare for Tromsø, men for verden og arbeidere vi nyter godt av.
 
 ## 🤔 VIL DU HA DENNE GUIDEN DER DU BOR? 🤔
@@ -86,9 +90,11 @@ Savner du at det finnes en guide der du bor i Norge? Ta kontakt, det er såre en
     Creds også til koden som fantas fra før, laget av 
 
 ## 🟧 KONTAKTINFORMASJON 🟧
-Framtiden i våre hender Lokallag Tromsø:
-Mail: tromso@framtiden.no
-### Hjemmesiden til lokallaget: [Framtiden i våre hender Tromsø (om oss og alle våre aktiviteter) 🔗)](https://linktr.ee/framtidentromso) 
+Framtiden i våre hender Lokallag Tromsø
+
+
+**Mail: tromso@framtiden.no**
+**Hjemmesiden til lokallaget: [Framtiden i våre hender Tromsø (om oss og alle våre aktiviteter) 🔗)](https://linktr.ee/framtidentromso)**
 
 
 Instagram: [framtidennord🔗](https://www.instagram.com/framtidennord/)
