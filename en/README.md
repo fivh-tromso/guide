@@ -11,7 +11,7 @@ Shortcuts: [🌍The Guide](#the-guide-shows-you-actors-and-activities-that-promo
 
 ## Summary
 
-🇳🇴🇬🇧 Available in Norwegian and English!
+🇳🇴🇬🇧 Available in Norwegian and English! Launched on Aug'25!
 
 💚 Made with love by people for people, for a more sustainable Tromsø and a better world 💚
 
