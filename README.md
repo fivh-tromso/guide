@@ -1,9 +1,6 @@
-# (Sustainable) Bærekraftig GUIDE TROMSØ
-Snarveier: https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#bærekraftig-guide-tromsø-skulte-grønne-skatter-i-tromsø
+# Bærekraftig (sustainable) guide Tromsø
 
-### Kartguide over aktører som driver og fremmer bærekraftig i Tromsø og omegn, på mobil og PC
-🇳🇴🇬🇧 In Norwegian and [English⬇️](https://github.com/fivh-tromso/guide/tree/main/en#readme)!
-Offisielt lansert 13. august 2025!
+🇳🇴🇬🇧 In Norwegian and [English⬇️](https://github.com/fivh-tromso/guide/tree/main/en#readme)! Nettapplikasjon på PC og mobil.
 
 💚 Laget med kjærlighet av folk for folk, [for et mer bærekraftig Tromsø og en bedre verden⬇️](https://github.com/fivh-tromso/guide/blob/main/README.md#-VISJONER-FOR-GUIDEN-) 💚
 
@@ -11,10 +8,11 @@ Offisielt lansert 13. august 2025!
 
 🔵 Dugnadsbasert, [se hva du kan hjelpe med her⬇️](https://github.com/fivh-tromso/guide/blob/main/README.md#-hvordan-du-kan-du-kan-bidra-litt-).
 
-## Guiden
-Guiden er en stor oversikt over steder hvor du kan reparere, kjøpe brukt, låne ting, leie ting, komme i kontakt med naturen, fellesskap og arangementer som fremmer bærekraft, inkludering og:
+### Guiden viser deg aktører som driver og fremmer bærekraftig i Tromsø og omegn
+Guiden er en stor oversikt over steder hvor du kan reparere, kjøpe brukt, låne ting, leie ting, komme i kontakt med naturen, fellesskap og arangementer som fremmer bærekraft, inkludering og: Guiden er en nettapplikasjon 
 ### 👉 https://fivh-tromso.github.io/guide/
 
+    Tips: Lagre som app-ikon til hjemskjermen "Del -> legg til på hjemskjermen"
 
 ## Laget av deg og for deg?
 🫵Vi trenger din hjelp å bidra med innspill hvis du ser at det mangler noe i guiden (eller utdaterte). Vi er på ballen med en gang, senest den 1. hver måned me ny oppdatering!
