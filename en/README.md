@@ -47,11 +47,11 @@ Everything is based on voluntary effort. We could always use a little help ☺�
     
     💬Spread the word - the more people use it, the more discover the cool places we have here in Tromsø.
     🖨️Print and post posters where you are - here are PDF files: https://github.com/fivh-tromso/guide/tree/main/promo
-    ✍️Visit an actor in the guide, write briefly about them with a picture - like "reports" of the places and the wonderful people we have in the guide, showcasing the spirit of Tromsø's sustainability.
+    ✍️Visit an actor in the guide, write briefly about them with a picture - promoting the wonderful people that really is the foundation of this sustainable guide and sustainable practices.
     👾Are you tech-savvy? It would be cool to have comment features or "ratings" so people can share their experiences. We don't know how to implement this, but maybe you do? :)
     🎖️Provide feedback on the content - as mentioned above, we need feedback on new or outdated places via the form.
-    Something else?
     👍Give us positive feedback (via email/Instagram/Facebook). It motivates us.
+    ❓Something else in mind? tell us!
 
 
 **Promotional materials: [https://github.com/fivh-tromso/guide/tree/main/promo](https://github.com/fivh-tromso/guide/tree/main/promo)**
