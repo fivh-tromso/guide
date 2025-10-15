@@ -43,7 +43,8 @@ Alt er basert på frivillig innsats. Vi kunne derfor alltids trenge litt hjelp �
     🎖️Gi feedback om innholdet - som nevnt over, trenger vi sende inn feedback i skjemaet for nye steder, og utdaterte steder.
     noe annet?
     👍Gi oss en positiv tilbakemelding (på mail/instagram/facebook). Det blir vi motiverte av.
-    
+
+**Promoterings-materiell: [https://github.com/fivh-tromso/guide/tree/main/promo](https://github.com/fivh-tromso/guide/tree/main/promo)**
 
 Inspirerende quote: be the change you wanna see.
 
