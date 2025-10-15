@@ -1,18 +1,19 @@
 # Bærekraftig (sustainable) guide Tromsø
-Snarveier: [🌍Guiden🌍](https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#guiden-viser-deg-aktører-som-driver-og-fremmer-bærekraftig-i-tromsø-og-omegn)  [🦸Bidra🦸](https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#bidra-til-guiden)  [🗺️KATEGORIER🗺️](https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#%EF%B8%8F-kategorier-i-guiden-%EF%B8%8F)  [👁️Visjon👁️](https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#%EF%B8%8F-visjoner-for-guiden-%EF%B8%8F)  [👏Creds👏](https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#-creds-)  [🟧Kontaktinfo🟧](https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#-kontaktinformasjon-)
+Snarveier: [🌍Guiden](https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#guiden-viser-deg-aktører-som-driver-og-fremmer-bærekraftig-i-tromsø-og-omegn),  [🦸Bidra](https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#bidra-til-guiden),  [🗺️Kategorier](https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#%EF%B8%8F-kategorier-i-guiden-%EF%B8%8F),  [👁️Visjon](https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#%EF%B8%8F-visjoner-for-guiden-%EF%B8%8F),  [👏Creds](https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#-creds-),  [🟧Kontaktinfo](https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#-kontaktinformasjon-)
 
 
-🇳🇴🇬🇧 In Norwegian and [English⬇️](https://github.com/fivh-tromso/guide/tree/main/en#readme)! Nettapplikasjon på PC og mobil.
 
-💚 Laget med kjærlighet av folk for folk, [for et mer bærekraftig Tromsø og en bedre verden⬇️](https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#%EF%B8%8F-visjoner-for-guiden-%EF%B8%8F)) 💚
+🇳🇴🇬🇧 [Guiden](https://fivh-tromso.github.io/guide/)er på norsk og engelsk [(English information⬇️)](https://github.com/fivh-tromso/guide/tree/main/en#readme)! 
 
-🟧 en guide av [Framtiden i våre hender Tromsø (hjemmeside🔗)](https://linktr.ee/framtidentromso)
+💚 Laget med kjærlighet av folk for folk, for et mer bærekraftig Tromsø og en bedre verden 💚
 
-🔵 Dugnadsbasert, [se hva du kan hjelpe med her⬇️](https://github.com/fivh-tromso/guide/blob/main/README.md#-hvordan-du-kan-du-kan-bidra-litt-).
+🟧 en guide av Framtiden i våre hender Tromsø [(hjemmeside🔗)](https://linktr.ee/framtidentromso) 🟧
+
+🔵 Dugnadsbasert, open-source, community-based 🔵
 
 
-## 🌍Guiden viser deg aktører som driver og fremmer bærekraftig i Tromsø og omegn🌍
-Guiden er en stor oversikt over steder hvor du kan reparere, kjøpe brukt, låne ting, leie ting, komme i kontakt med naturen, fellesskap og arangementer som fremmer bærekraft, inkludering og: Guiden er en nettapplikasjon 
+## 🌍Guiden viser deg aktører som driver og fremmer bærekraft i Tromsø og omegn🌍
+Guiden gir deg et oversiktskart over steder hvor du kan reparere, kjøpe brukt, låne ting, leie ting, komme i kontakt med naturen, fellesskap og arangementer som fremmer bærekraft, sirkulære praksiser og inkludering:
 ### 👉 https://fivh-tromso.github.io/guide/
 
         💡Tips: Lagre som app-ikon til hjemskjermen "Del -> legg til på hjemskjermen"
@@ -23,7 +24,7 @@ Guiden er en stor oversikt over steder hvor du kan reparere, kjøpe brukt, låne
 
 🔄Vi er på ballen med en gang, vi oppdaterer nytt innhold ca. den 1. hver måned.
 
-### 🚩BIDRA MED INNHOLD TIL GUIDEN HER: [FEEDBACK-SKJEMA🔗](https://forms.office.com/e/sn8SK5iuQF). 
+**🚩BIDRA MED INNHOLD TIL GUIDEN HER: [FEEDBACK-SKJEMA🔗](https://forms.office.com/e/sn8SK5iuQF)** 
 
 ### 💡Har du innspill? Send oss e-post på [tromso@framtiden.no](mailto:tromso@framtiden.no), eller bruk skjemaet over.
 
