@@ -90,10 +90,13 @@ Savner du at det finnes en guide der du bor i Norge? Ta kontakt, det er såre en
     Og så må det rettes en spesiell takk til 
     Marie Søndergaard i FIVH Nord, 
     Andrea Schneider på UiT 
-    og ikke minst Maria Wirkola ved Samskipnaden, 
+    og Maria Wirkola ved Samskipnaden, 
     som sørget for å gi de riktige dyttene for å få dette ut av skuffen og ut i dagens lys.
 
-    Creds også til koden som fantas fra før, laget av 
+    Creds til den originale utvikleren av kildekoden,
+    Pierre Beauguitte, som lagde guiden for FIVH Oslo.
+    Det gjorde det mulig for guiden å bli videreutviklet 
+    av Martin Haug, for FIVH Tromsø.
 
 ## 🟧 KONTAKTINFORMASJON 🟧
 Framtiden i våre hender Lokallag Tromsø
