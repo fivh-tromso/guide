@@ -7,7 +7,7 @@ Snarveier: [🌍Guiden](#guiden-viser-deg-aktører-og-aktiviteter-som-fremmer-b�
 
 
 ## Oppsummert
-🇳🇴🇬🇧 På norsk og engelsk! 
+🇳🇴🇬🇧 På norsk og engelsk! Nylansert aug 2025!
 
 💚 Laget med kjærlighet av folk for folk, for et mer bærekraftig Tromsø og en bedre verden 💚
 
