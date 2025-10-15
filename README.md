@@ -37,7 +37,7 @@ Alt er basert på frivillig innsats. Vi kunne derfor alltids trenge litt hjelp �
 ### Hvordan du kan du kan bidra (litt mer)!
     
     💬Spre bruken - jo fler som bruker den, jo flere oppdager de mange kule stedene vi har her i Tromsø.
-    🖨️Print og heng poster der du er - her er PDF filer: https://github.com/fivh-tromso/guide/promo
+    🖨️Print og heng poster der du er - her er PDF filer: https://github.com/fivh-tromso/guide/tree/main/promo
     ✍️Besøk en aktør i guiden, skriv kort om dem med et bilde - slags "reportasjer" av stedene og de fine folka som er vi har her i guiden, som viser folka og menneskene som gjør Tromsø mer bærekraftig - det  og spiriten.
     👾Er du IT-kyndig - ville vært kult med noen kommentarfunksjoner, eller "rating", så folk virkelig kan dele erfaringer. Vi vet ikke hvordan vi implementerer dette, men kanskje du gjør? :)
     🎖️Gi feedback om innholdet - som nevnt over, trenger vi sende inn feedback i skjemaet for nye steder, og utdaterte steder.
