@@ -1,5 +1,5 @@
 # Bærekraftig (sustainable) guide Tromsø
-Snarveier: 🌍Guiden🌍  🦸Bidra🦸  🗺️KATEGORIER🗺️  👁️Visjon👁️  👏Creds👏  🟧Kontaktinfo🟧
+Snarveier: [🌍Guiden🌍](https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#guiden-viser-deg-aktører-som-driver-og-fremmer-bærekraftig-i-tromsø-og-omegn)  [🦸Bidra🦸](https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#bidra-til-guiden)  [🗺️KATEGORIER🗺️](https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#%EF%B8%8F-kategorier-i-guiden-%EF%B8%8F)  [👁️Visjon👁️](https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#%EF%B8%8F-visjoner-for-guiden-%EF%B8%8F)  [👏Creds👏](https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#-creds-)  [🟧Kontaktinfo🟧](https://github.com/fivh-tromso/guide/tree/main?tab=readme-ov-file#-kontaktinformasjon-)
 
 
 🇳🇴🇬🇧 In Norwegian and [English⬇️](https://github.com/fivh-tromso/guide/tree/main/en#readme)! Nettapplikasjon på PC og mobil.
@@ -11,7 +11,7 @@ Snarveier: 🌍Guiden🌍  🦸Bidra🦸  🗺️KATEGORIER🗺️  👁️Visjo
 🔵 Dugnadsbasert, [se hva du kan hjelpe med her⬇️](https://github.com/fivh-tromso/guide/blob/main/README.md#-hvordan-du-kan-du-kan-bidra-litt-).
 
 
-### 🌍Guiden viser deg aktører som driver og fremmer bærekraftig i Tromsø og omegn🌍
+## 🌍Guiden viser deg aktører som driver og fremmer bærekraftig i Tromsø og omegn🌍
 Guiden er en stor oversikt over steder hvor du kan reparere, kjøpe brukt, låne ting, leie ting, komme i kontakt med naturen, fellesskap og arangementer som fremmer bærekraft, inkludering og: Guiden er en nettapplikasjon 
 ### 👉 https://fivh-tromso.github.io/guide/
 
