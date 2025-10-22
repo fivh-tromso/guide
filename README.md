@@ -1,5 +1,5 @@
 # Bærekraftig (sustainable) guide Tromsø
-Snarveier: [🌍Guiden](#guiden-viser-deg-aktører-og-aktiviteter-som-fremmer-bærekraftige-praksiser-og-tenkemåter-),  [🦸Bidra](#bidra-til-guiden),  [🗺️Kategorier](#%EF%B8%8F-kategorier-i-guiden-%EF%B8%8F),  [👁️Visjon](#%EF%B8%8F-visjoner-for-guiden-%EF%B8%8F),  [👏Creds](#-creds-), [🟢Nye Green Guide](#-nye-green-guide-%EF%B8%8F)  [🟧Kontaktinfo](#-kontaktinformasjon-),  [🇬🇧ENGLISH INFORMATION🇬🇧](https://github.com/fivh-tromso/guide/tree/main/en#readme)
+Snarveier: [🌍Guiden](#guiden-viser-deg-aktører-og-aktiviteter-som-fremmer-bærekraftige-praksiser-og-tenkemåter-),  [🦸Bidra](#bidra-til-guiden),  [🗺️Kategorier](#%EF%B8%8F-kategorier-i-guiden-%EF%B8%8F),  [👁️Visjon](#%EF%B8%8F-visjoner-for-guiden-%EF%B8%8F),  [👏Creds](#-creds-), [🟢Nye Green Guide](#-nye-green-guide-%EF%B8%8F), [🟧Kontaktinfo](#-kontaktinformasjon-),  [🇬🇧ENGLISH INFORMATION🇬🇧](https://github.com/fivh-tromso/guide/tree/main/en#readme)
 
 **Her er guiden 👉 https://fivh-tromso.github.io/guide/**
 
