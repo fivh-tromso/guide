@@ -95,17 +95,17 @@ Savner du at det finnes en guide der du bor i Norge? Ta kontakt, det er såre en
     og Maria Wirkola ved Samskipnaden, 
     som sørget for å gi de riktige dyttene for å få dette ut av skuffen og ut i dagens lys.
 
-    Creds til den originale utvikleren av kildekoden,
+    Creds til utvikleren av den originale åpne kildekoden,
     Pierre Beauguitte, som lagde guiden for FIVH Oslo.
-    Det gjorde det mulig for guiden å bli videreutviklet 
-    av Martin Haug, for FIVH Tromsø.
+    Det gjorde det mulig for oss å videreutvikle vår egen 
+    guide for FIVH Tromsø, av Martin Haug.
 
 ## 🟢 NYE GREEN GUIDE 🕸️
         Tromsø Bærekraftige Guide = den gamle Green Guide!
 
-Green Guide var en app som blei utvikla for Framtiden i våre hender Nord (tidligere Grønn hverdag). Den hadde liknende funksjoner som vår nye bærekraftige guide, med en oversikt over grønne valg - ikke bare over Tromsø - men hele nord!! Dessverre blei den blei ikke oppdatert videre og slutta å virke rundt 2022...  Én viktig forskjell på Green Guide og Bærekraftig Guide Tromsø, er at Green Guide var et betalt oppdrag og som app krever det konstant videreutvikling. Vår nye guide nå er basert på åpen kildekode og gratis funksjonalitet i Github for å hoste en nettside. Det gjør at vi ikke avhenger av noen andre, vi har full kontroll selv, det er kostnadsfritt, og vi kan oppdatere den selv (med frivillig innsats fra lokallaget og community i Tromsø).
+Green Guide var en app som blei utvikla for Framtiden i våre hender Nord (tidligere Grønn hverdag). Den hadde liknende funksjoner som vår nye bærekraftige guide, med en oversikt over grønne valg - ikke bare over Tromsø - men hele nord!! Dessverre blei den blei ikke oppdatert videre og slutta å virke rundt 2022...  Én viktig forskjell på Green Guide og Bærekraftig Guide Tromsø, er at Green Guide var et betalt oppdrag og som app krever det konstant videreutvikling (og kostnader). Vår nye guide nå er basert på åpen kildekode og gratis funksjonalitet i Github for å hoste egen nettside. Det gjør at vi ikke avhenger av noen andre, vi har full kontroll selv, det er kostnadsfritt, og vi kan oppdatere innholdet og koden helt selv (med frivillig innsats fra lokallaget og community i Tromsø).
 
-Men det er altså Green Guide som er **inspirasjonen** til den Bærekraftig Guide Tromsø, som Tromsø har manglet i noen år. I tillegg til har vi hentet inspirasjon fra andre liknende guider i andre byer og landsdeler i Norge. Bærekraftig Guide Tromsø er bygget fra en guide av Oslo studentlag, som var basert på åpen kildekode i Github. De var glade for at vi fikk bruk for og kunne vidererutvikle vår egen guide for Tromsø.
+Men det er altså Green Guide som er **inspirasjonen** til at vi ønsket en Bærekraftig Guide Tromsø, byen har manglet i altfor mange år. I tillegg har vi hentet mye inspirasjon fra andre liknende guider i andre byer og landsdeler i Norge. Bærekraftig Guide Tromsø er bygget fra en guide av FIVH Oslo studentlag, som de hadde basert på åpen kildekode i Github. De var glade for at vi fikk bruk for dette og kunne vidererutvikle vår egen guide for Tromsø.
 
 ## 🟧 KONTAKTINFORMASJON 🟧
 Framtiden i våre hender Lokallag Tromsø
@@ -121,4 +121,4 @@ Facebook: [fivhnord🔗](https://www.facebook.com/fivh.nord/)
 Hudd: [Framtiden i våre hender tromsø🔗](https://hudd.no/groups/8043)
 
 
-🪑Cheers
+🪑Cheers, Martin
