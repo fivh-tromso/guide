@@ -1,5 +1,5 @@
 # Bærekraftig (sustainable) guide Tromsø
-Snarveier: [🌍Guiden](#guiden-viser-deg-aktører-og-aktiviteter-som-fremmer-bærekraftige-praksiser-og-tenkemåter-),  [🦸Bidra](#bidra-til-guiden),  [🗺️Kategorier](#%EF%B8%8F-kategorier-i-guiden-%EF%B8%8F),  [👁️Visjon](#%EF%B8%8F-visjoner-for-guiden-%EF%B8%8F),  [👏Creds](#-creds-), [👏Green Guide](#-🕸️NYE-GREEN-GUIDE-🕸️)  [🟧Kontaktinfo](#-kontaktinformasjon-),  [🇬🇧ENGLISH INFORMATION🇬🇧](https://github.com/fivh-tromso/guide/tree/main/en#readme)
+Snarveier: [🌍Guiden](#guiden-viser-deg-aktører-og-aktiviteter-som-fremmer-bærekraftige-praksiser-og-tenkemåter-),  [🦸Bidra](#bidra-til-guiden),  [🗺️Kategorier](#%EF%B8%8F-kategorier-i-guiden-%EF%B8%8F),  [👁️Visjon](#%EF%B8%8F-visjoner-for-guiden-%EF%B8%8F),  [👏Creds](#-creds-), [🟢NyeGreenGuide](#%EF%B8%8F-nye-green-guide-%EF%B8%8F)  [🟧Kontaktinfo](#-kontaktinformasjon-),  [🇬🇧ENGLISH INFORMATION🇬🇧](https://github.com/fivh-tromso/guide/tree/main/en#readme)
 
 **Her er guiden 👉 https://fivh-tromso.github.io/guide/**
 
@@ -100,7 +100,7 @@ Savner du at det finnes en guide der du bor i Norge? Ta kontakt, det er såre en
     Det gjorde det mulig for guiden å bli videreutviklet 
     av Martin Haug, for FIVH Tromsø.
 
-## 🕸️ NYE GREEN GUIDE 🕸️
+## 🟢 NYE GREEN GUIDE 🕸️
         Tromsø Bærekraftige Guide = den gamle Green Guide!
 
 Green Guide var en app som blei utvikla for Framtiden i våre hender Nord (tidligere Grønn hverdag). Den hadde liknende funksjoner som vår nye bærekraftige guide, med en oversikt over grønne valg - ikke bare over Tromsø - men hele nord!! Dessverre blei den blei ikke oppdatert videre og slutta å virke rundt 2022...  Én viktig forskjell på Green Guide og Bærekraftig Guide Tromsø, er at Green Guide var et betalt oppdrag og som app krever det konstant videreutvikling. Vår nye guide nå er basert på åpen kildekode og gratis funksjonalitet i Github for å hoste en nettside. Det gjør at vi ikke avhenger av noen andre, vi har full kontroll selv, det er kostnadsfritt, og vi kan oppdatere den selv (med frivillig innsats fra lokallaget og community i Tromsø).
