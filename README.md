@@ -1,5 +1,5 @@
 # Bærekraftig (sustainable) guide Tromsø
-Snarveier: [🌍Guiden](#guiden-viser-deg-aktører-og-aktiviteter-som-fremmer-bærekraftige-praksiser-og-tenkemåter-),  [🦸Bidra](#bidra-til-guiden),  [🗺️Kategorier](#%EF%B8%8F-kategorier-i-guiden-%EF%B8%8F),  [👁️Visjon](#%EF%B8%8F-visjoner-for-guiden-%EF%B8%8F),  [👏Creds](#-creds-),  [🟧Kontaktinfo](#-kontaktinformasjon-),  [🇬🇧ENGLISH INFORMATION🇬🇧](https://github.com/fivh-tromso/guide/tree/main/en#readme)
+Snarveier: [🌍Guiden](#guiden-viser-deg-aktører-og-aktiviteter-som-fremmer-bærekraftige-praksiser-og-tenkemåter-),  [🦸Bidra](#bidra-til-guiden),  [🗺️Kategorier](#%EF%B8%8F-kategorier-i-guiden-%EF%B8%8F),  [👁️Visjon](#%EF%B8%8F-visjoner-for-guiden-%EF%B8%8F),  [👏Creds](#-creds-), [👏Green Guide](#-🕸️NYE-GREEN-GUIDE-🕸️)  [🟧Kontaktinfo](#-kontaktinformasjon-),  [🇬🇧ENGLISH INFORMATION🇬🇧](https://github.com/fivh-tromso/guide/tree/main/en#readme)
 
 **Her er guiden 👉 https://fivh-tromso.github.io/guide/**
 
@@ -18,7 +18,7 @@ Snarveier: [🌍Guiden](#guiden-viser-deg-aktører-og-aktiviteter-som-fremmer-b�
 
 
 ## 🌍Guiden viser deg aktører og aktiviteter som fremmer bærekraftige praksiser og tenkemåter 🌍
-Guiden gir deg full oversikt, med kart og liste over steder Tromso og omegn hvor du kan reparere, kjøpe brukt, låne ting, leie ting, komme i kontakt med naturen, finne fellesskap og arangementer som fremmer bærekraft, sirkulære praksiser og inkludering:
+Guiden er en nettapplikasjon som gir deg full oversikt, med kart og liste over steder Tromso og omegn hvor du kan reparere, kjøpe brukt, låne ting, leie ting, komme i kontakt med naturen, finne fellesskap og arangementer som fremmer bærekraft, sirkulære praksiser og inkludering:
 
 
 **👉 https://fivh-tromso.github.io/guide/**
@@ -43,9 +43,11 @@ Alt er basert på frivillig innsats. Vi kunne derfor alltids trenge litt hjelp �
     🖨️Print og heng poster der du er - her er PDF filer: https://github.com/fivh-tromso/guide/tree/main/promo
     ✍️Besøk en aktør i guiden, skriv kort om dem med et bilde - slags "reportasjer" av stedene og de fine folka som er vi har her i guiden, som viser folka og menneskene som gjør Tromsø mer bærekraftig - det  og spiriten.
     👾Er du IT-kyndig - ville vært kult med noen kommentarfunksjoner, eller "rating", så folk virkelig kan dele erfaringer. Vi vet ikke hvordan vi implementerer dette, men kanskje du gjør? :)
-    🎖️Gi feedback om innholdet - som nevnt over, trenger vi sende inn feedback i skjemaet for nye steder, og utdaterte steder.
+    🎖️Gi feedback om innholdet - som nevnt over, trenger vi å holde innhopldet oppdatert. Send oss nye steder, og slett utdaterte steder.
     noe annet?
     👍Gi oss en positiv tilbakemelding (på mail/instagram/facebook). Det blir vi motiverte av.
+
+        💡Meld deg til dugnad på epost eller finn oss på våres aktiviteter - se hjemmesida vår (bla nederst)
 
 **Promoterings-materiell: [https://github.com/fivh-tromso/guide/tree/main/promo](https://github.com/fivh-tromso/guide/tree/main/promo)**
 
@@ -98,13 +100,20 @@ Savner du at det finnes en guide der du bor i Norge? Ta kontakt, det er såre en
     Det gjorde det mulig for guiden å bli videreutviklet 
     av Martin Haug, for FIVH Tromsø.
 
+## 🕸️ NYE GREEN GUIDE 🕸️
+        Tromsø Bærekraftige Guide = den gamle Green Guide!
+
+Green Guide var en app som blei utvikla for Framtiden i våre hender Nord (tidligere Grønn hverdag). Den hadde liknende funksjoner som vår nye bærekraftige guide, med en oversikt over grønne valg - ikke bare over Tromsø - men hele nord!! Dessverre blei den blei ikke oppdatert videre og slutta å virke rundt 2022...  Én viktig forskjell på Green Guide og Bærekraftig Guide Tromsø, er at Green Guide var et betalt oppdrag og som app krever det konstant videreutvikling. Vår nye guide nå er basert på åpen kildekode og gratis funksjonalitet i Github for å hoste en nettside. Det gjør at vi ikke avhenger av noen andre, vi har full kontroll selv, det er kostnadsfritt, og vi kan oppdatere den selv (med frivillig innsats fra lokallaget og community i Tromsø).
+
+Men det er altså Green Guide som er **inspirasjonen** til den Bærekraftig Guide Tromsø, som Tromsø har manglet i noen år. I tillegg til har vi hentet inspirasjon fra andre liknende guider i andre byer og landsdeler i Norge. Bærekraftig Guide Tromsø er bygget fra en guide av Oslo studentlag, som var basert på åpen kildekode i Github. De var glade for at vi fikk bruk for og kunne vidererutvikle vår egen guide for Tromsø.
+
 ## 🟧 KONTAKTINFORMASJON 🟧
 Framtiden i våre hender Lokallag Tromsø
 
 
 **Mail: tromso@framtiden.no**
 
-**Hjemmesiden til lokallaget: [Framtiden i våre hender Tromsø (om oss og alle våre aktiviteter) 🔗)](https://linktr.ee/framtidentromso)**
+**Hjemmesiden til lokallaget: [Framtiden i våre hender Tromsø (alt om oss og alle våre aktiviteter, alltid oppdatert) 🔗)](https://linktr.ee/framtidentromso)**
 
 
 Instagram: [framtidennord🔗](https://www.instagram.com/framtidennord/)
