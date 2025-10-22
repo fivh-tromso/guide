@@ -101,7 +101,7 @@ Savner du at det finnes en guide der du bor i Norge? Ta kontakt, det er såre en
     guide for FIVH Tromsø, av Martin Haug.
 
 ## 🟢 NYE GREEN GUIDE 🕸️
-        Tromsø Bærekraftige Guide = den gamle Green Guide!
+        Tromsø Bærekraftige Guide = en ny og oppdatert Green Guide!
 
 Green Guide var en app som blei utvikla for Framtiden i våre hender Nord (tidligere Grønn hverdag). Den hadde liknende funksjoner som vår nye bærekraftige guide, med en oversikt over grønne valg - ikke bare over Tromsø - men hele nord!! Dessverre blei den blei ikke oppdatert videre og slutta å virke rundt 2022...  Én viktig forskjell på Green Guide og Bærekraftig Guide Tromsø, er at Green Guide var et betalt oppdrag og som app krever det konstant videreutvikling (og kostnader). Vår nye guide nå er basert på åpen kildekode og gratis funksjonalitet i Github for å hoste egen nettside. Det gjør at vi ikke avhenger av noen andre, vi har full kontroll selv, det er kostnadsfritt, og vi kan oppdatere innholdet og koden helt selv (med frivillig innsats fra lokallaget og community i Tromsø).
 
