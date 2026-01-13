@@ -54,20 +54,26 @@ L.MarkerClusterGroup.include({
 });
 
 function init() {
-    map = L.map('map', {tap: false}).setView([69.65, 18.94], 13); 
-    L.tileLayer(
-	'https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.png',
-	{
-	    attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, ' +
-		'&copy; <a href="https://openmaptiles.org/">OpenMapTiles</a>, ' +
-		'&copy; <a href="http://openstreetmap.org">OpenStreetMap</a>, ' +
-		'made by <a href="mailto:pierrebeauguitte@pm.me">Pierre Beauguitte</a>, edited by FIVH Tromsø',
-	    maxZoom: 20,
-	    minZoom: 11,
+	map = L.map('map', { tap: false }).setView([69.65, 18.94], 13);
+	
+	// OpenFreeMap basemap via MapLibre style
+	L.maplibreGL({
+	  style: 'https://tiles.openfreemap.org/styles/liberty',
+	  attribution:
+	    '© OpenStreetMap contributors, tiles by OpenFreeMap, ' +
+	    'guide first made by Pierre Beauguitte FIVH Oslo, improved by Martin Haug FIVH Tromsø',
+	  maxZoom: 20,
+	  minZoom: 11
 	}).addTo(map);
-    map.setMaxBounds(L.latLngBounds(L.latLng(69.9500, 18.3500),
-				     L.latLng(69.4500, 19.3500)));
-    loadPlaces();
+	
+	map.setMaxBounds(
+	  L.latLngBounds(
+	    L.latLng(69.9500, 18.3500),
+	    L.latLng(69.4500, 19.3500)
+	  )
+	);
+	
+	loadPlaces();
 }
 
 function makeClusterIcon(type) {
