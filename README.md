@@ -85,9 +85,10 @@ Savner du at det finnes en guide der du bor i Norge? Ta kontakt, det er såre en
 
 ## 👏 CREDS 👏
 
-    Takk til alle som har bidratt med drivkraft og til dette prosjektet: 
+    Takk til alle som har bidratt med innspill: 
     Sietske, Erik, Kristina, Carla, Sigurd, Laila, Andrea, Amelie, Megan, 
-    Helene, Johan, Sivert, Ingunn, Zselam, Hanne Gro.
+    Helene, Johan, Sivert, Ingunn, Zselam, Hanne Gro, Lene, Wibke, Marie, 
+    Håkon 
 
     Og så må det rettes en spesiell takk til 
     Marie Søndergaard i FIVH Nord, 
