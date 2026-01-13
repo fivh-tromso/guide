@@ -54,14 +54,15 @@ L.MarkerClusterGroup.include({
 });
 
 function init() {
-    map = L.map('map', { tap: false }).setView([69.65, 18.94], 13);
+    map = L.map('map', { tap: false, maxZoom: 20, minZoom: 11}).setView([69.65, 18.94], 13);
     
     const maplibreLayer = L.maplibreGL({
-        style: 'https://tiles.openfreemap.org/styles/liberty',
+        style: 'https://tiles.openfreemap.org/styles/liberty/style.json',
         attribution:
             '© OpenStreetMap contributors, tiles by OpenFreeMap, original guide by Pierre Beauguitte FIVH Oslo, improved by Martin Haug FIVH Tromsø',
         maxZoom: 20,
-        minZoom: 11
+        minZoom: 11,
+		pane: 'tilePane' // important: keep GL below markers
     }).addTo(map);
     
     map.setMaxBounds(
