@@ -54,26 +54,29 @@ L.MarkerClusterGroup.include({
 });
 
 function init() {
-	map = L.map('map', { tap: false }).setView([69.65, 18.94], 13);
-	
-	// OpenFreeMap basemap via MapLibre style
-	L.maplibreGL({
-	  style: 'https://tiles.openfreemap.org/styles/liberty',
-	  attribution:
-	    '© OpenStreetMap contributors, tiles by OpenFreeMap, ' +
-	    'guide first made by Pierre Beauguitte FIVH Oslo, improved by Martin Haug FIVH Tromsø',
-	  maxZoom: 20,
-	  minZoom: 11
-	}).addTo(map);
-	
-	map.setMaxBounds(
-	  L.latLngBounds(
-	    L.latLng(69.9500, 18.3500),
-	    L.latLng(69.4500, 19.3500)
-	  )
-	);
-	
-	loadPlaces();
+    map = L.map('map', { tap: false }).setView([69.65, 18.94], 13);
+    
+    const maplibreLayer = L.maplibreGL({
+        style: 'https://tiles.openfreemap.org/styles/liberty',
+        attribution:
+            '© OpenStreetMap contributors, tiles by OpenFreeMap, ' +
+            'guide first made by Pierre Beauguitte FIVH Oslo, improved by Martin Haug FIVH Tromsø',
+        maxZoom: 20,
+        minZoom: 11
+    }).addTo(map);
+    
+    map.setMaxBounds(
+        L.latLngBounds(
+            L.latLng(69.9500, 18.3500),
+            L.latLng(69.4500, 19.3500)
+        )
+    );
+    
+    // Wait for MapLibre GL to fully load before adding markers
+    maplibreLayer.on('load', function() {
+        console.log('OpenFreeMap loaded, now loading places');
+        loadPlaces();
+    });
 }
 
 function makeClusterIcon(type) {
