@@ -134,11 +134,11 @@ function hideRows(cat) {
 
 var translations = {
     'food': {
-	'text': 'Food',
+	'text': 'Sustainable food',
 	'icon': 'restaurant'
     },
     'bike': {
-	'text': 'Travel and experiences',
+	'text': 'Travel and nature experiences',
 	'icon': 'pedal_bike'
     },
     'clothes': {
@@ -146,11 +146,11 @@ var translations = {
 	'icon': 'checkroom'
     },
     'tools': {
-	'text': 'Repairs and tools',
+	'text': 'Repairs and handcraft',
 	'icon': 'handyman'
     },
     'sports': {
-	'text': 'Sharing economy',
+	'text': 'Sharing economy (rent and borrow)',
 	'icon': 'diversity_1'
     },
     'events': {
