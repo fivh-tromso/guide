@@ -59,8 +59,7 @@ function init() {
     const maplibreLayer = L.maplibreGL({
         style: 'https://tiles.openfreemap.org/styles/liberty',
         attribution:
-            '© OpenStreetMap contributors, tiles by OpenFreeMap, ' +
-            'guide first made by Pierre Beauguitte FIVH Oslo, improved by Martin Haug FIVH Tromsø',
+            '© OpenStreetMap contributors, tiles by OpenFreeMap, original guide by Pierre Beauguitte FIVH Oslo, improved by Martin Haug FIVH Tromsø',
         maxZoom: 20,
         minZoom: 11
     }).addTo(map);
