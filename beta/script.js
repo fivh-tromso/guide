@@ -72,11 +72,7 @@ function init() {
         )
     );
     
-    // Wait for MapLibre GL to fully load before adding markers
-    maplibreLayer.on('load', function() {
-        console.log('OpenFreeMap loaded, now loading places');
-        loadPlaces();
-    });
+	loadPlaces();
 }
 
 function makeClusterIcon(type) {
