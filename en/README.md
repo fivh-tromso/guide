@@ -37,7 +37,7 @@ The guide provides a complete overview, with maps and lists of places in Tromsø
 
 🔄We are on it right away, updating new content around the 1st of every month.
 
-**🚩CONTRIBUTE CONTENT TO THE GUIDE HERE: [FEEDBACK FORM🔗](https://forms.office.com/e/sn8SK5iuQF)**
+**🚩CONTRIBUTE CONTENT TO THE GUIDE HERE: [FEEDBACK FORM🔗](https://forms.office.com/e/mausrY1Qey)**
 
 **💡Have feedback? Send us an email at [tromso@framtiden.no](mailto:tromso@framtiden.no), or use the form above.**
 
