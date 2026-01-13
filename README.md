@@ -31,7 +31,7 @@ Guiden er en nettapplikasjon som gir deg full oversikt, med kart og liste over s
 
 🔄Vi er på ballen med en gang, vi oppdaterer nytt innhold ca. den 1. hver måned.
 
-**🚩BIDRA MED INNHOLD TIL GUIDEN HER: [FEEDBACK-SKJEMA🔗](https://forms.office.com/e/sn8SK5iuQF)** 
+**🚩BIDRA MED INNHOLD TIL GUIDEN HER: [FEEDBACK-SKJEMA🔗](https://forms.office.com/e/mausrY1Qey)** 
 
 **💡Har du innspill? Send oss e-post på [tromso@framtiden.no](mailto:tromso@framtiden.no), eller bruk skjemaet over.**
 
