@@ -93,7 +93,8 @@ Do you wish there was a guide like this where you live in Norway? Contact us—i
 ## 👏 CREDS 👏
     Thanks to everyone who contributed to this project:
     Sietske, Erik, Kristina, Carla, Sigurd, Laila, Andrea, Amelie, Megan, 
-    Helene, Johan, Sivert, Ingunn, Zselam, Hanne Gro.
+    Helene, Johan, Sivert, Ingunn, Zselam, Hanne Gro, Lene, Wibke, Marie, 
+    Håkon
     Special thanks to:
     Marie Søndergaard at FIVH Nord, 
     Andrea Schneider at UiT, 
