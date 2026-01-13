@@ -134,11 +134,11 @@ function hideRows(cat) {
 
 var translations = {
     'food': {
-	'text': 'Mat',
+	'text': 'Bærekraftig mat',
 	'icon': 'restaurant'
     },
     'bike': {
-	'text': 'Reise og opplevelser',
+	'text': 'Reise og naturopplevelser',
 	'icon': 'pedal_bike'
     },
     'clothes': {
@@ -146,11 +146,11 @@ var translations = {
 	'icon': 'checkroom'
     },
     'tools': {
-	'text': 'Reparasjon og verktøy',
+	'text': 'Reparasjon og redesign',
 	'icon': 'handyman'
     },
     'sports': {
-	'text': 'Delingsøkonomi',
+	'text': 'Delingsøkonomi (låne og leie)',
 	'icon': 'diversity_1'
     },
     'events': {
