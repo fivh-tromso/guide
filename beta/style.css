@@ -38,7 +38,7 @@ a {
 #header {
     width:100%;
     float:left;
-    height: 150px;
+    height: 80px;
     overflow: visible;
 }
 
@@ -80,7 +80,7 @@ a {
 #map {
     width: 70%;
     min-width: 600px;
-    height: 800px;
+    height: 8700px;
     float: left;
     z-index: 0;
 }
