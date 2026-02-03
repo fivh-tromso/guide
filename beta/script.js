@@ -67,8 +67,8 @@ function init() {
     
     map.setMaxBounds(
         L.latLngBounds(
-            L.latLng(69.2500, 18.1500),
-            L.latLng(70.1500, 19.5500)
+            L.latLng(68.2500, 15.9000),
+            L.latLng(70.1500, 24.1000)
         )
     );
     
