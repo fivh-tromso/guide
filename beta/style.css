@@ -48,16 +48,16 @@ a {
 
 #titlebanner {
     position: relative;
-    left: 50;
+    left: 40;
     min-width: 500px;
     overflow: visible;
     padding-left: 50px;
-    padding-top: 10px;
+    padding-top: 5px;
 }
 
 .title {
     margin-bottom: 0px;
-    margin-top:20px;
+    margin-top:10px;
 	width:95%;
 }
 
@@ -312,7 +312,7 @@ table tr.events:hover td    { background-color: var(--events);        }
     }
 
     h1 {
-	font-size: 46px;
+	font-size: 42px;
     }
 
     h3 {
