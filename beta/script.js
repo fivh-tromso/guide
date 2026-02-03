@@ -155,7 +155,7 @@ var translations = {
 	'icon': 'handyman'
     },
     'sports': {
-	'text': 'Delingsøkonomi (låne og leie)',
+	'text': 'Del, lån og lei',
 	'icon': 'diversity_1'
     },
     'events': {
