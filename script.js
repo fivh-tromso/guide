@@ -61,9 +61,9 @@ function init() {
 	    attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, ' +
 		'&copy; <a href="https://openmaptiles.org/">OpenMapTiles</a>, ' +
 		'&copy; <a href="http://openstreetmap.org">OpenStreetMap</a>, ' +
-		'made by <a href="mailto:pierrebeauguitte@pm.me">Pierre Beauguitte</a>, edited by FIVH Tromsø',
+		'made by Pierre Beauguitte</a>, edited by <a href="mailto:tromso@framtiden.no">Framtiden i våre hender Tromsø</a>',
 	    maxZoom: 20,
-	    minZoom: 11,
+	    minZoom: 5,
 	}).addTo(map);
     map.setMaxBounds(L.latLngBounds(L.latLng(69.9500, 18.3500),
 				     L.latLng(69.4500, 19.3500)));
