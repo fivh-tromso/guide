@@ -54,20 +54,25 @@ L.MarkerClusterGroup.include({
 });
 
 function init() {
-    map = L.map('map', {tap: false}).setView([69.65, 18.94], 13); 
-    L.tileLayer(
-	'https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.png',
-	{
-	    attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, ' +
-		'&copy; <a href="https://openmaptiles.org/">OpenMapTiles</a>, ' +
-		'&copy; <a href="http://openstreetmap.org">OpenStreetMap</a>, ' +
-		'made by Pierre Beauguitte</a>, edited by <a href="mailto:tromso@framtiden.no">Framtiden i våre hender Tromsø</a>',
-	    maxZoom: 20,
-	    minZoom: 5,
-	}).addTo(map);
-    map.setMaxBounds(L.latLngBounds(L.latLng(69.9500, 18.3500),
-				     L.latLng(69.4500, 19.3500)));
-    loadPlaces();
+    map = L.map('map', { tap: false, maxZoom: 20, minZoom: 7}).setView([69.65, 18.94], 13);
+    
+    const maplibreLayer = L.maplibreGL({
+        style: 'https://tiles.openfreemap.org/styles/liberty',
+        attribution:
+            '© OpenStreetMap contributors, tiles by OpenFreeMap, made by Pierre Beauguitte, adapted by Martin Haug',
+        maxZoom: 20,
+        minZoom: 7,
+		//pane: 'tilePane' //  keep GL below markers
+    }).addTo(map);
+    
+    map.setMaxBounds(
+        L.latLngBounds(
+            L.latLng(68.2500, 15.9000),
+            L.latLng(70.1500, 24.1000)
+        )
+    );
+    
+	loadPlaces();
 }
 
 function makeClusterIcon(type) {
@@ -146,11 +151,11 @@ var translations = {
 	'icon': 'checkroom'
     },
     'tools': {
-	'text': 'Reparasjon og redesign',
+	'text': 'Reparasjon & -design',
 	'icon': 'handyman'
     },
     'sports': {
-	'text': 'Delingsøkonomi (låne og leie)',
+	'text': 'Del, lån og lei',
 	'icon': 'diversity_1'
     },
     'events': {
