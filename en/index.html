@@ -1,10 +1,9 @@
 <html>
   <head>
-    <title>Sustainable Guide Tromsø</title>
-	<link rel="icon" href="favicon.ico" type="image/x-icon">
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
-    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+ 	<title>Sustainable Guide Tromsø</title>
+	<link rel="icon" href="favicon.ico" type="image/x-icon">    <meta charset="utf-8">
+	<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+	<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
@@ -15,17 +14,25 @@
     <link rel="icon"
 	  type="image/png"
 	  href="https://www.framtiden.no/favicon.ico">
+
+	<!-- MapLibre GL JS -->
+	<script src="https://unpkg.com/maplibre-gl/dist/maplibre-gl.js"></script>
+	<link href="https://unpkg.com/maplibre-gl/dist/maplibre-gl.css" rel="stylesheet"/>
+
+	<!-- Leaflet + MapLibre bridge -->
+	<script src="https://unpkg.com/@maplibre/maplibre-gl-leaflet/leaflet-maplibre-gl.js"></script>
+
     <script src="./script.js"></script>
   </head>
   <body onload="init()">
 
     <div id="header">
       <div id="logo">
-	<img src="logo.png" alt="logo" height="150px;">
+	<img src="logo.png" alt="logo" height="110px;">
       </div>
       <div id="titlebanner">
 	<h1 class="title">Sustainable Guide Tromsø</h1>
-	<h3 class="title">Connect with sustainability focused places and activities in Tromsø. Discover second hand stores, loan and rental services, repairers, nature-based experiences, green communities and events.  </h3>
+	<h3 class="title">Find 2nd hand, repair, share, borrow, rental spots +++! </h3>
       </div>
     </div>
 
@@ -53,14 +60,16 @@
     </div>
 
     <div id="footer">
+      <p><b> <a target="_blank" href="https://forms.office.com/e/mausrY1Qey">🚩Ser du noen feil? Savner du noe? Gi feedback og bidrag her! </a> </b></p>
+      <p>🌎 Become a volunteer contributor?</p>
+	  <p> <a target="_blank" href="https://github.com/fivh-tromso/guide/blob/main/README.md#-creds-"> 👉 Documentation  🦸How to contribute 👁️ Guide visions 👏Creds-wall </a> </p>
 
-	  <p><b> <a target="_blank" href="https://forms.office.com/e/mausrY1Qey">🚩See any errors? Missing something? Give feedback here! </a> </b></p>
-  	  <p> 🟧 a guide by <a target="_blank" href="https://linktr.ee/framtidentromso">Framtiden i våre hender Tromsø (more about us and our activities🔗)</a> </p>
-	  <p> 💚 Made with love by people for people, volunteer-based 💚 </p>
-	  <p> <a target="_blank" href="https://github.com/fivh-tromso/guide/blob/main">Documentation: Read more about 🌍The Guide, 🦸How to contribute, 🗺️Categories, 👁️Vision, 👏Credits, 🟧Contact info </a> </p>
+	  <p> 🟧 guide hosted by <a target="_blank" href="https://linktr.ee/framtidentromso">Framtiden i våre hender Tromsø (Future in our hands)</a> </p>
+      <p> 💚 Non-commercial, volunteer-based, by poeple wanting to make sustainable choices visible </p>
+	  
 	  <p> <a href="/guide">🇳🇴 NORSK VERSJON </a></p>
-	  <p><i> ⏰ Last updated: January 13th, 2026 </i></p>
-    </div>
+	  <p><i> ⏰ Last updated: February 1st, 2026 </i></p>
+	</div>
 
   </body>
 </html>
