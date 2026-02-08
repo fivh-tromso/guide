@@ -54,20 +54,25 @@ L.MarkerClusterGroup.include({
 });
 
 function init() {
-    map = L.map('map', {tap: false}).setView([69.65, 18.94], 13); 
-    L.tileLayer(
-	'https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.png',
-	{
-	    attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, ' +
-		'&copy; <a href="https://openmaptiles.org/">OpenMapTiles</a>, ' +
-		'&copy; <a href="http://openstreetmap.org">OpenStreetMap</a>, ' +
-		'made by <a href="mailto:pierrebeauguitte@pm.me">Pierre Beauguitte</a>, edited by FIVH Tromsø',
-	    maxZoom: 20,
-	    minZoom: 11,
-	}).addTo(map);
-     	map.setMaxBounds(L.latLngBounds(L.latLng(69.9500, 18.3500),
-				    L.latLng(69.4500, 19.3500)));
-    loadPlaces();
+    map = L.map('map', { tap: false, maxZoom: 20, minZoom: 7}).setView([69.65, 18.94], 13);
+    
+    const maplibreLayer = L.maplibreGL({
+        style: 'https://tiles.openfreemap.org/styles/liberty',
+        attribution:
+            '© OpenStreetMap contributors, tiles by OpenFreeMap, made by Pierre Beauguitte, adapted by Martin Haug',
+        maxZoom: 20,
+        minZoom: 7,
+		//pane: 'tilePane' //  keep GL below markers
+    }).addTo(map);
+    
+    map.setMaxBounds(
+        L.latLngBounds(
+            L.latLng(68.2500, 15.9000),
+            L.latLng(70.1500, 24.1000)
+        )
+    );
+    
+	loadPlaces();
 }
 
 function makeClusterIcon(type) {
@@ -138,7 +143,7 @@ var translations = {
 	'icon': 'restaurant'
     },
     'bike': {
-	'text': 'Travel and nature experiences',
+	'text': 'Travel & nature experiences',
 	'icon': 'pedal_bike'
     },
     'clothes': {
@@ -146,11 +151,11 @@ var translations = {
 	'icon': 'checkroom'
     },
     'tools': {
-	'text': 'Repairs and handcraft',
+	'text': 'Repairs & handcraft',
 	'icon': 'handyman'
     },
     'sports': {
-	'text': 'Sharing economy (rent and borrow)',
+	'text': 'Share, rent and borrow',
 	'icon': 'diversity_1'
     },
     'events': {
@@ -170,7 +175,7 @@ function createTable() {
 	var cnt = 0;
 	places[cat].view = false;
 	for (place of places[cat]) {
-	 	let infoText = place['prop']['info'] ? place['prop']['info'] : "No extra info";
+		let infoText = place['prop']['info'] ? place['prop']['info'] : "No extra info";
 		infoText = infoText.replace(/"/g, '&quot;'); // escape quotes for HTML
 		
 		tableContent += "<tr class='place " + cat + "' " +
@@ -204,9 +209,34 @@ function makeIcon(cat) {
     });
 }
 
+function loadPlaces2() {
+    $.getJSON("data.json",function(data) {
+	L.geoJson(data, {
+	    pointToLayer: function(feature,latlng) {
+		var marker = L.marker(latlng,
+				      {icon: makeIcon(feature.properties.category)});
+		marker.bindPopup('<b>' + feature.properties.name + '</b>' +
+				 '<p style="padding:0;margin:0;">' + feature.properties.address + '<br/>' +
+				 feature.properties.city + '</p>' +
+				 '<a target="blank_" href=' + feature.properties.website + '>'
+				 + feature.properties.website + "</a>");
+		if (!(feature.properties.category in places))
+		    places[feature.properties.category] = [];
+		places[feature.properties.category].push(
+		    {
+			'prop': feature.properties,
+			'marker': marker
+		    }
+		);
+	    }
+	})
+	createTable();
+	draw();
+    });
+}
 
 function loadPlaces() {
-    fetch('../data.csv')
+    fetch('data.csv')
         .then(response => response.text())
         .then(csvText => {
             const parsed = Papa.parse(csvText, {
@@ -255,6 +285,7 @@ function loadPlaces() {
 				        : ''
 				    )
 				);
+
 
                 if (!(cat in places)) places[cat] = [];
                 places[cat].push({
