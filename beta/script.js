@@ -151,7 +151,7 @@ var translations = {
 	'icon': 'checkroom'
     },
     'tools': {
-	'text': 'Reparasjon og redesign',
+	'text': 'Reparasjon & -design',
 	'icon': 'handyman'
     },
     'sports': {
