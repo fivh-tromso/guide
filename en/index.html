@@ -60,15 +60,20 @@
     </div>
 
     <div id="footer">
-      <p><b> <a target="_blank" href="https://forms.office.com/e/mausrY1Qey">🚩Ser du noen feil? Savner du noe? Gi feedback og bidrag her! </a> </b></p>
-      <p>🌎 Become a volunteer contributor?</p>
-	  <p> <a target="_blank" href="https://github.com/fivh-tromso/guide/blob/main/README.md#-creds-"> 👉 Documentation  🦸How to contribute 👁️ Guide visions 👏Creds-wall </a> </p>
-
-	  <p> 🟧 guide hosted by <a target="_blank" href="https://linktr.ee/framtidentromso">Framtiden i våre hender Tromsø (Future in our hands)</a> </p>
-      <p> 💚 Non-commercial, volunteer-based, by poeple wanting to make sustainable choices visible </p>
-	  
-	  <p> <a href="/guide">🇳🇴 NORSK VERSJON </a></p>
-	  <p><i> ⏰ Last updated: February 20th, 2026 </i></p>
+		<p><b> <a target="_blank" href="https://forms.office.com/e/mausrY1Qey">🚩Ser du noen feil? Savner du noe? Gi feedback og bidrag her! </a> </b></p>
+		<p>🌎 Become a volunteer contributor?</p>
+		<p> <a target="_blank" href="https://github.com/fivh-tromso/guide/blob/main/README.md#-creds-"> 👉 Documentation  🦸How to contribute 👁️ Guide visions 👏Creds-wall </a> </p>
+		
+		<p> 🟧 guide hosted by <a target="_blank" href="https://linktr.ee/framtidentromso">Framtiden i våre hender Tromsø (Future in our hands)</a> </p>
+		<p> 💚 Non-commercial, volunteer-based, by poeple wanting to make sustainable choices visible </p>
+		
+		<p> <a href="/guide">🇳🇴 NORSK VERSJON </a></p>
+		<p><i>⏰ Last updated:: <span id="last-updated"></span></i></p>
+		<script src="/site-data.js"></script>
+		<script>
+		  document.getElementById("last-updated").textContent =
+			window.siteData.lastUpdated;
+		</script>
 	</div>
 
   </body>
