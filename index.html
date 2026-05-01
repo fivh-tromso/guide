@@ -71,9 +71,13 @@
 
 	  
 		
-	  <p> <a href="/guide/en">🇬🇧 ENGLISH VERSION </a></p>
-      <p><i> ⏰ Sist oppdatert: 20. februar 2026 </i></p>
-
+	  	<p> <a href="/guide/en">🇬🇧 ENGLISH VERSION </a></p>
+		<p><i>⏰ Sist oppdatert: <span id="last-updated"></span></i></p>
+		<script src="/site-data.js"></script>
+		<script>
+		  document.getElementById("last-updated").textContent =
+			window.siteData.lastUpdated;
+		</script>
 	</div>
 
   </body>
