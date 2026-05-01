@@ -68,7 +68,12 @@
       <p> 💚 Non-commercial, volunteer-based, by poeple wanting to make sustainable choices visible </p>
 	  
 	  <p> <a href="/guide/alta">🇳🇴 NORSK VERSJON </a></p>
-	  <p><i> ⏰ Last updated: February 20th, 2026 </i></p>
+		<p><i>⏰ Last updated: <span id="last-updated"></span></i></p>
+		<script src="/guide/site-data.js"></script>
+		<script>
+		  document.getElementById("last-updated").textContent =
+			window.siteData.lastUpdated;
+		</script>
 	</div>
 
   </body>
